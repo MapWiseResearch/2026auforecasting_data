@@ -1,0 +1,4 @@
+output/
+*.pkl
+*.~lock.*
+.fundraising_cache.pkl
