@@ -1,0 +1,375 @@
+StateAb,DivisionId,DivisionNm,FromCandidateId,FromCandidatePartyAb,FromCandidatePartyNm,FromCandidateSurname,FromCandidateGivenNm,FromCandidateBallotPosition(0 for TPP candidates),ToCandidateId,ToCandidatePartyAb,ToCandidatePartyNm,ToCandidateSurname,ToCandidateGivenNm,ToCandidateBallotPosition,TransferCount,TransferPercentage
+ACT,101,Canberra,0,,,First Preferences,,0,37211,LP,Liberal,MINSON,Slade,4,20102,32.670
+ACT,101,Canberra,0,,,First Preferences,,0,36228,ALP,Australian Labor Party,PAYNE,Alicia,6,41435,67.330
+ACT,101,Canberra,36238,UAPP,United Australia Party,SMITH,Catherine,1,37211,LP,Liberal,MINSON,Slade,4,1200,71.130
+ACT,101,Canberra,36238,UAPP,United Australia Party,SMITH,Catherine,1,36228,ALP,Australian Labor Party,PAYNE,Alicia,6,487,28.870
+ACT,101,Canberra,37456,ON,Pauline Hanson's One Nation,MILES,James,2,37211,LP,Liberal,MINSON,Slade,4,1148,74.980
+ACT,101,Canberra,37456,ON,Pauline Hanson's One Nation,MILES,James,2,36228,ALP,Australian Labor Party,PAYNE,Alicia,6,383,25.020
+ACT,101,Canberra,32830,IND,Independent,BOHM,Tim,3,37211,LP,Liberal,MINSON,Slade,4,1651,34.600
+ACT,101,Canberra,32830,IND,Independent,BOHM,Tim,3,36228,ALP,Australian Labor Party,PAYNE,Alicia,6,3121,65.400
+ACT,101,Canberra,36241,GRN,The Greens,HOLLO,Tim,5,37211,LP,Liberal,MINSON,Slade,4,1323,5.800
+ACT,101,Canberra,36241,GRN,The Greens,HOLLO,Tim,5,36228,ALP,Australian Labor Party,PAYNE,Alicia,6,21472,94.200
+NSW,108,Bradfield,0,,,First Preferences,,0,36826,ALP,Labor,BRIGDEN,David Gordon,2,16902,27.950
+NSW,108,Bradfield,0,,,First Preferences,,0,37016,LP,Liberal,FLETCHER,Paul,6,43562,72.050
+NSW,108,Bradfield,36047,IND,Independent,BOELE,Nicolette,1,36826,ALP,Labor,BRIGDEN,David Gordon,2,14514,71.860
+NSW,108,Bradfield,36047,IND,Independent,BOELE,Nicolette,1,37016,LP,Liberal,FLETCHER,Paul,6,5684,28.140
+NSW,108,Bradfield,36362,GRN,The Greens,COUSINS,Martin,3,36826,ALP,Labor,BRIGDEN,David Gordon,2,7454,83.190
+NSW,108,Bradfield,36362,GRN,The Greens,COUSINS,Martin,3,37016,LP,Liberal,FLETCHER,Paul,6,1506,16.810
+NSW,108,Bradfield,36101,IND,Independent,KITSON,Janine,4,36826,ALP,Labor,BRIGDEN,David Gordon,2,2012,66.670
+NSW,108,Bradfield,36101,IND,Independent,KITSON,Janine,4,37016,LP,Liberal,FLETCHER,Paul,6,1006,33.330
+NSW,108,Bradfield,36294,UAPP,United Australia Party,FLETCHER,Rob,5,36826,ALP,Labor,BRIGDEN,David Gordon,2,690,27.640
+NSW,108,Bradfield,36294,UAPP,United Australia Party,FLETCHER,Rob,5,37016,LP,Liberal,FLETCHER,Paul,6,1806,72.360
+NSW,108,Bradfield,37563,ON,Pauline Hanson's One Nation,LOWE,Michael,7,36826,ALP,Labor,BRIGDEN,David Gordon,2,447,28.510
+NSW,108,Bradfield,37563,ON,Pauline Hanson's One Nation,LOWE,Michael,7,37016,LP,Liberal,FLETCHER,Paul,6,1121,71.490
+NSW,109,Calare,0,,,First Preferences,,0,36799,ALP,Labor,ELLIOTT,Sarah,4,16252,24.110
+NSW,109,Calare,0,,,First Preferences,,0,36348,NP,The Nationals,GEE,Andrew,5,51161,75.890
+NSW,109,Calare,35951,IND,Independent,HOOK,Kate,1,36799,ALP,Labor,ELLIOTT,Sarah,4,13407,61.240
+NSW,109,Calare,35951,IND,Independent,HOOK,Kate,1,36348,NP,The Nationals,GEE,Andrew,5,8484,38.760
+NSW,109,Calare,37543,ON,Pauline Hanson's One Nation,WHITTAKER,Stacey,2,36799,ALP,Labor,ELLIOTT,Sarah,4,2532,27.960
+NSW,109,Calare,37543,ON,Pauline Hanson's One Nation,WHITTAKER,Stacey,2,36348,NP,The Nationals,GEE,Andrew,5,6525,72.040
+NSW,109,Calare,36320,GRN,The Greens,NANKERVIS,Kay,3,36799,ALP,Labor,ELLIOTT,Sarah,4,3767,77.020
+NSW,109,Calare,36320,GRN,The Greens,NANKERVIS,Kay,3,36348,NP,The Nationals,GEE,Andrew,5,1124,22.980
+NSW,109,Calare,36263,UAPP,United Australia Party,JANNIS,Adam John,6,36799,ALP,Labor,ELLIOTT,Sarah,4,1116,27.440
+NSW,109,Calare,36263,UAPP,United Australia Party,JANNIS,Adam John,6,36348,NP,The Nationals,GEE,Andrew,5,2951,72.560
+NSW,113,Cowper,0,,,First Preferences,,0,36909,ALP,Labor,McMULLEN,Keith,2,15566,26.170
+NSW,113,Cowper,0,,,First Preferences,,0,36342,NP,The Nationals,CONAGHAN,Pat,3,43909,73.830
+NSW,113,Cowper,37556,ON,Pauline Hanson's One Nation,ASPIOTIS,Faye,1,36909,ALP,Labor,McMULLEN,Keith,2,2787,30.810
+NSW,113,Cowper,37556,ON,Pauline Hanson's One Nation,ASPIOTIS,Faye,1,36342,NP,The Nationals,CONAGHAN,Pat,3,6260,69.190
+NSW,113,Cowper,36245,IND,Independent,HEISE,Caz,4,36909,ALP,Labor,McMULLEN,Keith,2,19952,68.310
+NSW,113,Cowper,36245,IND,Independent,HEISE,Caz,4,36342,NP,The Nationals,CONAGHAN,Pat,3,9254,31.690
+NSW,113,Cowper,36662,LDP,Liberal Democrats,CHASELING,Simon,5,36909,ALP,Labor,McMULLEN,Keith,2,1042,24.140
+NSW,113,Cowper,36662,LDP,Liberal Democrats,CHASELING,Simon,5,36342,NP,The Nationals,CONAGHAN,Pat,3,3274,75.860
+NSW,113,Cowper,36259,UAPP,United Australia Party,FAIRHALL,Joshua Stephen,6,36909,ALP,Labor,McMULLEN,Keith,2,799,29.880
+NSW,113,Cowper,36259,UAPP,United Australia Party,FAIRHALL,Joshua Stephen,6,36342,NP,The Nationals,CONAGHAN,Pat,3,1875,70.120
+NSW,113,Cowper,36322,GRN,The Greens,NOTT,Timothy,7,36909,ALP,Labor,McMULLEN,Keith,2,4937,75.740
+NSW,113,Cowper,36322,GRN,The Greens,NOTT,Timothy,7,36342,NP,The Nationals,CONAGHAN,Pat,3,1581,24.260
+NSW,119,Fowler,0,,,First Preferences,,0,36907,ALP,Labor,KENEALLY,Kristina,1,30973,67.760
+NSW,119,Fowler,0,,,First Preferences,,0,37026,LP,Liberal,NGUYEN,Courtney,5,14740,32.240
+NSW,119,Fowler,36305,UAPP,United Australia Party,PANICH,Lela Lepa,2,36907,ALP,Labor,KENEALLY,Kristina,1,2678,48.580
+NSW,119,Fowler,36305,UAPP,United Australia Party,PANICH,Lela Lepa,2,37026,LP,Liberal,NGUYEN,Courtney,5,2834,51.420
+NSW,119,Fowler,36676,LDP,Liberal Democrats,RUNGE,Peter Ronald,3,36907,ALP,Labor,KENEALLY,Kristina,1,732,34.960
+NSW,119,Fowler,36676,LDP,Liberal Democrats,RUNGE,Peter Ronald,3,37026,LP,Liberal,NGUYEN,Courtney,5,1362,65.040
+NSW,119,Fowler,36240,IND,Independent,LE,Dai,4,36907,ALP,Labor,KENEALLY,Kristina,1,9164,36.160
+NSW,119,Fowler,36240,IND,Independent,LE,Dai,4,37026,LP,Liberal,NGUYEN,Courtney,5,16182,63.840
+NSW,119,Fowler,37566,ON,Pauline Hanson's One Nation,MARGOS,Tony,6,36907,ALP,Labor,KENEALLY,Kristina,1,1049,34.430
+NSW,119,Fowler,37566,ON,Pauline Hanson's One Nation,MARGOS,Tony,6,37026,LP,Liberal,NGUYEN,Courtney,5,1998,65.570
+NSW,119,Fowler,36679,GRN,The Greens,HOWARD,Avery,7,36907,ALP,Labor,KENEALLY,Kristina,1,3268,77.980
+NSW,119,Fowler,36679,GRN,The Greens,HOWARD,Avery,7,37026,LP,Liberal,NGUYEN,Courtney,5,923,22.020
+NSW,121,Grayndler,0,,,First Preferences,,0,36782,ALP,Labor,ALBANESE,Anthony,2,50723,77.050
+NSW,121,Grayndler,0,,,First Preferences,,0,37029,LP,Liberal,ZHANG,Ben,3,15111,22.950
+NSW,121,Grayndler,36278,UAPP,United Australia Party,SMITH,David Bruce,1,36782,ALP,Labor,ALBANESE,Anthony,2,787,37.460
+NSW,121,Grayndler,36278,UAPP,United Australia Party,SMITH,David Bruce,1,37029,LP,Liberal,ZHANG,Ben,3,1314,62.540
+NSW,121,Grayndler,36327,SOPA,FUSION: Science, Pirate, Secular, Climate Emergency,HAGGERTY,James,4,36782,ALP,Labor,ALBANESE,Anthony,2,975,79.790
+NSW,121,Grayndler,36327,SOPA,FUSION: Science, Pirate, Secular, Climate Emergency,HAGGERTY,James,4,37029,LP,Liberal,ZHANG,Ben,3,247,20.210
+NSW,121,Grayndler,37650,IND,Independent,KILHAM,Sarina,5,36782,ALP,Labor,ALBANESE,Anthony,2,1385,70.200
+NSW,121,Grayndler,37650,IND,Independent,KILHAM,Sarina,5,37029,LP,Liberal,ZHANG,Ben,3,588,29.800
+NSW,121,Grayndler,37534,ON,Pauline Hanson's One Nation,HENSELIN,Paul,6,36782,ALP,Labor,ALBANESE,Anthony,2,431,29.740
+NSW,121,Grayndler,37534,ON,Pauline Hanson's One Nation,HENSELIN,Paul,6,37029,LP,Liberal,ZHANG,Ben,3,1018,70.260
+NSW,121,Grayndler,36749,AJP,Animal Justice Party,DELLO-IACOVO,Michael Armando,7,36782,ALP,Labor,ALBANESE,Anthony,2,848,73.870
+NSW,121,Grayndler,36749,AJP,Animal Justice Party,DELLO-IACOVO,Michael Armando,7,37029,LP,Liberal,ZHANG,Ben,3,300,26.130
+NSW,121,Grayndler,36317,GRN,The Greens,JACOBS,Rachael,8,36782,ALP,Labor,ALBANESE,Anthony,2,19422,93.170
+NSW,121,Grayndler,36317,GRN,The Greens,JACOBS,Rachael,8,37029,LP,Liberal,ZHANG,Ben,3,1424,6.830
+NSW,132,Mackellar,0,,,First Preferences,,0,36821,ALP,Labor,GOODMAN,Paula,4,8162,16.600
+NSW,132,Mackellar,0,,,First Preferences,,0,37164,LP,Liberal,FALINSKI,Jason,5,40993,83.400
+NSW,132,Mackellar,36268,TNL,TNL,STEELE,Barry,1,36821,ALP,Labor,GOODMAN,Paula,4,396,68.870
+NSW,132,Mackellar,36268,TNL,TNL,STEELE,Barry,1,37164,LP,Liberal,FALINSKI,Jason,5,179,31.130
+NSW,132,Mackellar,37552,ON,Pauline Hanson's One Nation,DICKSON,Darren,2,36821,ALP,Labor,GOODMAN,Paula,4,984,37.500
+NSW,132,Mackellar,37552,ON,Pauline Hanson's One Nation,DICKSON,Darren,2,37164,LP,Liberal,FALINSKI,Jason,5,1640,62.500
+NSW,132,Mackellar,37450,IND,Independent,SCAMPS,Sophie,3,36821,ALP,Labor,GOODMAN,Paula,4,25820,68.440
+NSW,132,Mackellar,37450,IND,Independent,SCAMPS,Sophie,3,37164,LP,Liberal,FALINSKI,Jason,5,11904,31.560
+NSW,132,Mackellar,36281,UAPP,United Australia Party,BALL,Christopher Thomas,6,36821,ALP,Labor,GOODMAN,Paula,4,923,32.040
+NSW,132,Mackellar,36281,UAPP,United Australia Party,BALL,Christopher Thomas,6,37164,LP,Liberal,FALINSKI,Jason,5,1958,67.960
+NSW,132,Mackellar,36360,GRN,The Greens,HRNJAK,Ethan,7,36821,ALP,Labor,GOODMAN,Paula,4,4694,77.820
+NSW,132,Mackellar,36360,GRN,The Greens,HRNJAK,Ethan,7,37164,LP,Liberal,FALINSKI,Jason,5,1338,22.180
+NSW,137,North Sydney,0,,,First Preferences,,0,37166,LP,Liberal,ZIMMERMAN,Trent,7,36956,63.950
+NSW,137,North Sydney,0,,,First Preferences,,0,36926,ALP,Labor,RENSHAW,Catherine,10,20835,36.050
+NSW,137,North Sydney,37633,SPP,Sustainable Australia Party - Stop Overdevelopment / Corruption,BOURKE,William,1,37166,LP,Liberal,ZIMMERMAN,Trent,7,603,51.850
+NSW,137,North Sydney,37633,SPP,Sustainable Australia Party - Stop Overdevelopment / Corruption,BOURKE,William,1,36926,ALP,Labor,RENSHAW,Catherine,10,560,48.150
+NSW,137,North Sydney,36286,UAPP,United Australia Party,NALBANDIAN,Robert,2,37166,LP,Liberal,ZIMMERMAN,Trent,7,1205,69.650
+NSW,137,North Sydney,36286,UAPP,United Australia Party,NALBANDIAN,Robert,2,36926,ALP,Labor,RENSHAW,Catherine,10,525,30.350
+NSW,137,North Sydney,36367,GRN,The Greens,ARMSTRONG,Heather,3,37166,LP,Liberal,ZIMMERMAN,Trent,7,1266,15.240
+NSW,137,North Sydney,36367,GRN,The Greens,ARMSTRONG,Heather,3,36926,ALP,Labor,RENSHAW,Catherine,10,7042,84.760
+NSW,137,North Sydney,36248,TNL,TNL,KLINE,Victor,4,37166,LP,Liberal,ZIMMERMAN,Trent,7,336,37.920
+NSW,137,North Sydney,36248,TNL,TNL,KLINE,Victor,4,36926,ALP,Labor,RENSHAW,Catherine,10,550,62.080
+NSW,137,North Sydney,36405,IMO,Informed Medical Options Party,KINNEY,Lesley,5,37166,LP,Liberal,ZIMMERMAN,Trent,7,303,61.710
+NSW,137,North Sydney,36405,IMO,Informed Medical Options Party,KINNEY,Lesley,5,36926,ALP,Labor,RENSHAW,Catherine,10,188,38.290
+NSW,137,North Sydney,36854,LDP,Liberal Democrats,TINKLER,Dajen,6,37166,LP,Liberal,ZIMMERMAN,Trent,7,898,79.960
+NSW,137,North Sydney,36854,LDP,Liberal Democrats,TINKLER,Dajen,6,36926,ALP,Labor,RENSHAW,Catherine,10,225,20.040
+NSW,137,North Sydney,37452,IND,Independent,TINK,Kylea Jane,8,37166,LP,Liberal,ZIMMERMAN,Trent,7,7405,30.250
+NSW,137,North Sydney,37452,IND,Independent,TINK,Kylea Jane,8,36926,ALP,Labor,RENSHAW,Catherine,10,17072,69.750
+NSW,137,North Sydney,37541,ON,Pauline Hanson's One Nation,WALLS,Michael,9,37166,LP,Liberal,ZIMMERMAN,Trent,7,809,70.410
+NSW,137,North Sydney,37541,ON,Pauline Hanson's One Nation,WALLS,Michael,9,36926,ALP,Labor,RENSHAW,Catherine,10,340,29.590
+NSW,149,Sydney,0,,,First Preferences,,0,36805,ALP,Labor,PLIBERSEK,Tanya,2,52410,72.100
+NSW,149,Sydney,0,,,First Preferences,,0,37153,LP,Liberal,ANDRUSKA,Alexander,7,20276,27.900
+NSW,149,Sydney,37447,SAL,Socialist Alliance,CHUTER,Andrew,1,36805,ALP,Labor,PLIBERSEK,Tanya,2,1356,89.330
+NSW,149,Sydney,37447,SAL,Socialist Alliance,CHUTER,Andrew,1,37153,LP,Liberal,ANDRUSKA,Alexander,7,162,10.670
+NSW,149,Sydney,37562,ON,Pauline Hanson's One Nation,FERGUSON,Ben,3,36805,ALP,Labor,PLIBERSEK,Tanya,2,684,36.210
+NSW,149,Sydney,37562,ON,Pauline Hanson's One Nation,FERGUSON,Ben,3,37153,LP,Liberal,ANDRUSKA,Alexander,7,1205,63.790
+NSW,149,Sydney,36308,GRN,The Greens,SAHAI,Chetan,4,36805,ALP,Labor,PLIBERSEK,Tanya,2,21892,92.250
+NSW,149,Sydney,36308,GRN,The Greens,SAHAI,Chetan,4,37153,LP,Liberal,ANDRUSKA,Alexander,7,1840,7.750
+NSW,149,Sydney,36692,CEC,Citizens Party,ZHOU,Wen,5,36805,ALP,Labor,PLIBERSEK,Tanya,2,683,68.160
+NSW,149,Sydney,36692,CEC,Citizens Party,ZHOU,Wen,5,37153,LP,Liberal,ANDRUSKA,Alexander,7,319,31.840
+NSW,149,Sydney,36688,UAPP,United Australia Party,McALISTER,Ryan,6,36805,ALP,Labor,PLIBERSEK,Tanya,2,908,39.510
+NSW,149,Sydney,36688,UAPP,United Australia Party,McALISTER,Ryan,6,37153,LP,Liberal,ANDRUSKA,Alexander,7,1390,60.490
+NSW,151,Warringah,0,,,First Preferences,,0,37159,LP,Liberal,DEVES,Katherine,5,31129,79.950
+NSW,151,Warringah,0,,,First Preferences,,0,36808,ALP,Labor,MICKLEBURGH,David,6,7806,20.050
+NSW,151,Warringah,37516,ON,Pauline Hanson's One Nation,TRIPP,Steven,1,37159,LP,Liberal,DEVES,Katherine,5,1550,78.280
+NSW,151,Warringah,37516,ON,Pauline Hanson's One Nation,TRIPP,Steven,1,36808,ALP,Labor,MICKLEBURGH,David,6,430,21.720
+NSW,151,Warringah,32467,IND,Independent,STEGGALL,Zali,2,37159,LP,Liberal,DEVES,Katherine,5,11832,28.280
+NSW,151,Warringah,32467,IND,Independent,STEGGALL,Zali,2,36808,ALP,Labor,MICKLEBURGH,David,6,30000,71.720
+NSW,151,Warringah,36271,UAPP,United Australia Party,ROBERTSON,Andrew Colin,3,37159,LP,Liberal,DEVES,Katherine,5,1644,74.660
+NSW,151,Warringah,36271,UAPP,United Australia Party,ROBERTSON,Andrew Colin,3,36808,ALP,Labor,MICKLEBURGH,David,6,558,25.340
+NSW,151,Warringah,36675,GRN,The Greens,GLANVILLE,Kristyn,4,37159,LP,Liberal,DEVES,Katherine,5,1238,17.920
+NSW,151,Warringah,36675,GRN,The Greens,GLANVILLE,Kristyn,4,36808,ALP,Labor,MICKLEBURGH,David,6,5672,82.080
+NSW,151,Warringah,36396,AJP,Animal Justice Party,PATERSON,Kate,7,37159,LP,Liberal,DEVES,Katherine,5,608,41.220
+NSW,151,Warringah,36396,AJP,Animal Justice Party,PATERSON,Kate,7,36808,ALP,Labor,MICKLEBURGH,David,6,867,58.780
+NSW,152,Wentworth,0,,,First Preferences,,0,37010,ALP,Labor,MURRAY,Tim,1,9654,21.150
+NSW,152,Wentworth,0,,,First Preferences,,0,37051,LP,Liberal,SHARMA,Dave,7,35995,78.850
+NSW,152,Wentworth,37527,ON,Pauline Hanson's One Nation,FISHER,Dean,2,37010,ALP,Labor,MURRAY,Tim,1,318,35.530
+NSW,152,Wentworth,37527,ON,Pauline Hanson's One Nation,FISHER,Dean,2,37051,LP,Liberal,SHARMA,Dave,7,577,64.470
+NSW,152,Wentworth,36685,GRN,The Greens,KANAK,Dominic WY,3,37010,ALP,Labor,MURRAY,Tim,1,6307,85.110
+NSW,152,Wentworth,36685,GRN,The Greens,KANAK,Dominic WY,3,37051,LP,Liberal,SHARMA,Dave,7,1103,14.890
+NSW,152,Wentworth,36266,UAPP,United Australia Party,DUMER,Natalie,4,37010,ALP,Labor,MURRAY,Tim,1,536,29.560
+NSW,152,Wentworth,36266,UAPP,United Australia Party,DUMER,Natalie,4,37051,LP,Liberal,SHARMA,Dave,7,1277,70.440
+NSW,152,Wentworth,37451,IND,Independent,SPENDER,Allegra,5,37010,ALP,Labor,MURRAY,Tim,1,22082,69.420
+NSW,152,Wentworth,37451,IND,Independent,SPENDER,Allegra,5,37051,LP,Liberal,SHARMA,Dave,7,9728,30.580
+NSW,152,Wentworth,36656,LDP,Liberal Democrats,LEWKOVITZ,Daniel,6,37010,ALP,Labor,MURRAY,Tim,1,299,22.210
+NSW,152,Wentworth,36656,LDP,Liberal Democrats,LEWKOVITZ,Daniel,6,37051,LP,Liberal,SHARMA,Dave,7,1047,77.790
+QLD,156,Brisbane,0,,,First Preferences,,0,37230,ALP,Australian Labor Party,JARRETT,Madonna,4,29652,41.950
+QLD,156,Brisbane,0,,,First Preferences,,0,37482,LNP,Liberal National Party of Queensland,EVANS,Trevor,5,41032,58.050
+QLD,156,Brisbane,37204,AJP,Animal Justice Party,KENNEDY,Tiana,1,37230,ALP,Australian Labor Party,JARRETT,Madonna,4,1441,67.490
+QLD,156,Brisbane,37204,AJP,Animal Justice Party,KENNEDY,Tiana,1,37482,LNP,Liberal National Party of Queensland,EVANS,Trevor,5,694,32.510
+QLD,156,Brisbane,35972,UAPP,United Australia Party,KNUDSON,Justin Marc,2,37230,ALP,Australian Labor Party,JARRETT,Madonna,4,749,35.630
+QLD,156,Brisbane,35972,UAPP,United Australia Party,KNUDSON,Justin Marc,2,37482,LNP,Liberal National Party of Queensland,EVANS,Trevor,5,1353,64.370
+QLD,156,Brisbane,37338,GRN,Queensland Greens,BATES,Stephen,3,37230,ALP,Australian Labor Party,JARRETT,Madonna,4,26206,88.410
+QLD,156,Brisbane,37338,GRN,Queensland Greens,BATES,Stephen,3,37482,LNP,Liberal National Party of Queensland,EVANS,Trevor,5,3435,11.590
+QLD,156,Brisbane,38213,ON,Pauline Hanson's One Nation,HOLD,Trevor,6,37230,ALP,Australian Labor Party,JARRETT,Madonna,4,704,28.980
+QLD,156,Brisbane,38213,ON,Pauline Hanson's One Nation,HOLD,Trevor,6,37482,LNP,Liberal National Party of Queensland,EVANS,Trevor,5,1725,71.020
+QLD,156,Brisbane,37311,LDP,Liberal Democrats,BULL,Anthony,7,37230,ALP,Australian Labor Party,JARRETT,Madonna,4,431,23.850
+QLD,156,Brisbane,37311,LDP,Liberal Democrats,BULL,Anthony,7,37482,LNP,Liberal National Party of Queensland,EVANS,Trevor,5,1376,76.150
+QLD,163,Griffith,0,,,First Preferences,,0,37262,ALP,Australian Labor Party,BUTLER,Terri,3,30769,48.490
+QLD,163,Griffith,0,,,First Preferences,,0,37465,LNP,Liberal National Party of Queensland,ROBERTS,Olivia,5,32685,51.510
+QLD,163,Griffith,38217,ON,Pauline Hanson's One Nation,WARE,Shari,1,37262,ALP,Australian Labor Party,BUTLER,Terri,3,1111,31.710
+QLD,163,Griffith,38217,ON,Pauline Hanson's One Nation,WARE,Shari,1,37465,LNP,Liberal National Party of Queensland,ROBERTS,Olivia,5,2393,68.290
+QLD,163,Griffith,37364,GRN,Queensland Greens,CHANDLER-MATHER,Max,2,37262,ALP,Australian Labor Party,BUTLER,Terri,3,32114,87.340
+QLD,163,Griffith,37364,GRN,Queensland Greens,CHANDLER-MATHER,Max,2,37465,LNP,Liberal National Party of Queensland,ROBERTS,Olivia,5,4657,12.660
+QLD,163,Griffith,35982,UAPP,United Australia Party,McMULLAN,Robert Gordon,4,37262,ALP,Australian Labor Party,BUTLER,Terri,3,929,35.990
+QLD,163,Griffith,35982,UAPP,United Australia Party,McMULLAN,Robert Gordon,4,37465,LNP,Liberal National Party of Queensland,ROBERTS,Olivia,5,1652,64.010
+QLD,164,Groom,0,,,First Preferences,,0,37470,LNP,Liberal National Party of Queensland,HAMILTON,Garth,7,41971,70.000
+QLD,164,Groom,0,,,First Preferences,,0,37236,ALP,Australian Labor Party,ALLPASS,Gen,8,17985,30.000
+QLD,164,Groom,37777,CYA,Australian Federation Party,OTTO,Ryan,1,37470,LNP,Liberal National Party of Queensland,HAMILTON,Garth,7,1092,70.960
+QLD,164,Groom,37777,CYA,Australian Federation Party,OTTO,Ryan,1,37236,ALP,Australian Labor Party,ALLPASS,Gen,8,447,29.040
+QLD,164,Groom,38219,ON,Pauline Hanson's One Nation,ABRAHAM,Grant,2,37470,LNP,Liberal National Party of Queensland,HAMILTON,Garth,7,7003,76.280
+QLD,164,Groom,38219,ON,Pauline Hanson's One Nation,ABRAHAM,Grant,2,37236,ALP,Australian Labor Party,ALLPASS,Gen,8,2178,23.720
+QLD,164,Groom,37367,GRN,Queensland Greens,BERRY,Mickey,3,37470,LNP,Liberal National Party of Queensland,HAMILTON,Garth,7,1404,25.000
+QLD,164,Groom,37367,GRN,Queensland Greens,BERRY,Mickey,3,37236,ALP,Australian Labor Party,ALLPASS,Gen,8,4212,75.000
+QLD,164,Groom,35984,UAPP,United Australia Party,BANNISTER,Melissa,4,37470,LNP,Liberal National Party of Queensland,HAMILTON,Garth,7,3242,65.870
+QLD,164,Groom,35984,UAPP,United Australia Party,BANNISTER,Melissa,4,37236,ALP,Australian Labor Party,ALLPASS,Gen,8,1680,34.130
+QLD,164,Groom,37615,IND,Independent,SMOLENSKI,Kirstie,5,37470,LNP,Liberal National Party of Queensland,HAMILTON,Garth,7,3311,48.280
+QLD,164,Groom,37615,IND,Independent,SMOLENSKI,Kirstie,5,37236,ALP,Australian Labor Party,ALLPASS,Gen,8,3547,51.720
+QLD,164,Groom,36178,IND,Independent,HOLT,Suzie,6,37470,LNP,Liberal National Party of Queensland,HAMILTON,Garth,7,3587,45.220
+QLD,164,Groom,36178,IND,Independent,HOLT,Suzie,6,37236,ALP,Australian Labor Party,ALLPASS,Gen,8,4345,54.780
+QLD,167,Kennedy,0,,,First Preferences,,0,37474,LNP,Liberal National Party of Queensland,MACDONALD,Bryce,2,26387,63.710
+QLD,167,Kennedy,0,,,First Preferences,,0,37249,ALP,Australian Labor Party,BRANDON,Jason,5,15033,36.290
+QLD,167,Kennedy,37304,KAP,Katter's Australian Party (KAP),KATTER,Bob,1,37474,LNP,Liberal National Party of Queensland,MACDONALD,Bryce,2,24297,62.240
+QLD,167,Kennedy,37304,KAP,Katter's Australian Party (KAP),KATTER,Bob,1,37249,ALP,Australian Labor Party,BRANDON,Jason,5,14739,37.760
+QLD,167,Kennedy,36118,IND,Independent,SACKLEY,Jen,3,37474,LNP,Liberal National Party of Queensland,MACDONALD,Bryce,2,1532,51.390
+QLD,167,Kennedy,36118,IND,Independent,SACKLEY,Jen,3,37249,ALP,Australian Labor Party,BRANDON,Jason,5,1449,48.610
+QLD,167,Kennedy,37339,GRN,Queensland Greens,COX,Jennifer,4,37474,LNP,Liberal National Party of Queensland,MACDONALD,Bryce,2,1260,20.950
+QLD,167,Kennedy,37339,GRN,Queensland Greens,COX,Jennifer,4,37249,ALP,Australian Labor Party,BRANDON,Jason,5,4753,79.050
+QLD,167,Kennedy,35991,UAPP,United Australia Party,CAMPION,Peter,6,37474,LNP,Liberal National Party of Queensland,MACDONALD,Bryce,2,2836,68.270
+QLD,167,Kennedy,35991,UAPP,United Australia Party,CAMPION,Peter,6,37249,ALP,Australian Labor Party,BRANDON,Jason,5,1318,31.730
+QLD,177,Ryan,0,,,First Preferences,,0,37271,ALP,Australian Labor Party,COSSAR,Peter,7,22146,36.670
+QLD,177,Ryan,0,,,First Preferences,,0,37496,LNP,Liberal National Party of Queensland,SIMMONDS,Julian,8,38239,63.330
+QLD,177,Ryan,36016,UAPP,United Australia Party,POLLARD,Kathryn,1,37271,ALP,Australian Labor Party,COSSAR,Peter,7,746,36.180
+QLD,177,Ryan,36016,UAPP,United Australia Party,POLLARD,Kathryn,1,37496,LNP,Liberal National Party of Queensland,SIMMONDS,Julian,8,1316,63.820
+QLD,177,Ryan,37291,LDP,Liberal Democrats,COORY,Damian,2,37271,ALP,Australian Labor Party,COSSAR,Peter,7,665,25.760
+QLD,177,Ryan,37291,LDP,Liberal Democrats,COORY,Damian,2,37496,LNP,Liberal National Party of Queensland,SIMMONDS,Julian,8,1917,74.240
+QLD,177,Ryan,37580,AUP,Australian Progressives,REES,Janine,3,37271,ALP,Australian Labor Party,COSSAR,Peter,7,458,75.580
+QLD,177,Ryan,37580,AUP,Australian Progressives,REES,Janine,3,37496,LNP,Liberal National Party of Queensland,SIMMONDS,Julian,8,148,24.420
+QLD,177,Ryan,38236,ON,Pauline Hanson's One Nation,LOVE,Joel,4,37271,ALP,Australian Labor Party,COSSAR,Peter,7,724,32.360
+QLD,177,Ryan,38236,ON,Pauline Hanson's One Nation,LOVE,Joel,4,37496,LNP,Liberal National Party of Queensland,SIMMONDS,Julian,8,1513,67.640
+QLD,177,Ryan,37202,AJP,Animal Justice Party,LIPMAN,Jina,5,37271,ALP,Australian Labor Party,COSSAR,Peter,7,721,66.270
+QLD,177,Ryan,37202,AJP,Animal Justice Party,LIPMAN,Jina,5,37496,LNP,Liberal National Party of Queensland,SIMMONDS,Julian,8,367,33.730
+QLD,177,Ryan,37370,GRN,Queensland Greens,WATSON-BROWN,Elizabeth,6,37271,ALP,Australian Labor Party,COSSAR,Peter,7,26448,88.150
+QLD,177,Ryan,37370,GRN,Queensland Greens,WATSON-BROWN,Elizabeth,6,37496,LNP,Liberal National Party of Queensland,SIMMONDS,Julian,8,3555,11.850
+QLD,177,Ryan,37767,CYA,Australian Federation Party,DANCOISNE,Axel,9,37271,ALP,Australian Labor Party,COSSAR,Peter,7,154,43.630
+QLD,177,Ryan,37767,CYA,Australian Federation Party,DANCOISNE,Axel,9,37496,LNP,Liberal National Party of Queensland,SIMMONDS,Julian,8,199,56.370
+SA,188,Mayo,0,,,First Preferences,,0,36988,ALP,Australian Labor Party,BELL,Marisa,1,21051,40.130
+SA,188,Mayo,0,,,First Preferences,,0,37057,LP,Liberal,BLUCK,Allison,6,31411,59.870
+SA,188,Mayo,36606,AJP,Animal Justice Party,CHAPLIN,Padma,2,36988,ALP,Australian Labor Party,BELL,Marisa,1,1281,66.410
+SA,188,Mayo,36606,AJP,Animal Justice Party,CHAPLIN,Padma,2,37057,LP,Liberal,BLUCK,Allison,6,648,33.590
+SA,188,Mayo,36913,LDP,Liberal Democrats,VAN RAALTE,Jacob,3,36988,ALP,Australian Labor Party,BELL,Marisa,1,384,26.970
+SA,188,Mayo,36913,LDP,Liberal Democrats,VAN RAALTE,Jacob,3,37057,LP,Liberal,BLUCK,Allison,6,1040,73.030
+SA,188,Mayo,37710,XEN,Centre Alliance,SHARKIE,Rebekha,4,36988,ALP,Australian Labor Party,BELL,Marisa,1,21987,60.240
+SA,188,Mayo,37710,XEN,Centre Alliance,SHARKIE,Rebekha,4,37057,LP,Liberal,BLUCK,Allison,6,14513,39.760
+SA,188,Mayo,36474,GRN,The Greens,ELLIOTT,Greg,5,36988,ALP,Australian Labor Party,BELL,Marisa,1,11947,87.170
+SA,188,Mayo,36474,GRN,The Greens,ELLIOTT,Greg,5,37057,LP,Liberal,BLUCK,Allison,6,1758,12.830
+SA,188,Mayo,36423,UAPP,United Australia Party,McGRAIL,Samantha,7,36988,ALP,Australian Labor Party,BELL,Marisa,1,1391,34.020
+SA,188,Mayo,36423,UAPP,United Australia Party,McGRAIL,Samantha,7,37057,LP,Liberal,BLUCK,Allison,6,2698,65.980
+SA,188,Mayo,36875,ON,Pauline Hanson's One Nation,SCOTT,Tonya,8,36988,ALP,Australian Labor Party,BELL,Marisa,1,1549,32.440
+SA,188,Mayo,36875,ON,Pauline Hanson's One Nation,SCOTT,Tonya,8,37057,LP,Liberal,BLUCK,Allison,6,3226,67.560
+SA,188,Mayo,37708,CYA,Australian Federation Party,NEUGEBAUER,Mark,9,36988,ALP,Australian Labor Party,BELL,Marisa,1,365,27.440
+SA,188,Mayo,37708,CYA,Australian Federation Party,NEUGEBAUER,Mark,9,37057,LP,Liberal,BLUCK,Allison,6,965,72.560
+TAS,319,Clark,0,,,First Preferences,,0,37267,ALP,Australian Labor Party,DAVIS,Simon,2,12364,54.220
+TAS,319,Clark,0,,,First Preferences,,0,37141,LP,Liberal,COATS,Will,4,10441,45.780
+TAS,319,Clark,37607,ON,Pauline Hanson's One Nation,CAMERON,Michelle,1,37267,ALP,Australian Labor Party,DAVIS,Simon,2,926,53.990
+TAS,319,Clark,37607,ON,Pauline Hanson's One Nation,CAMERON,Michelle,1,37141,LP,Liberal,COATS,Will,4,789,46.010
+TAS,319,Clark,36995,LDP,Liberal Democrats,RAMSDEN,Ian,3,37267,ALP,Australian Labor Party,DAVIS,Simon,2,250,33.830
+TAS,319,Clark,36995,LDP,Liberal Democrats,RAMSDEN,Ian,3,37141,LP,Liberal,COATS,Will,4,489,66.170
+TAS,319,Clark,37298,GRN,The Greens,SHELLEY,Janet,5,37267,ALP,Australian Labor Party,DAVIS,Simon,2,8088,91.280
+TAS,319,Clark,37298,GRN,The Greens,SHELLEY,Janet,5,37141,LP,Liberal,COATS,Will,4,773,8.720
+TAS,319,Clark,33553,IND,Independent,WILKIE,Andrew,6,37267,ALP,Australian Labor Party,DAVIS,Simon,2,21687,72.280
+TAS,319,Clark,33553,IND,Independent,WILKIE,Andrew,6,37141,LP,Liberal,COATS,Will,4,8318,27.720
+TAS,319,Clark,36817,AJP,Animal Justice Party,DAVIES,Casey,7,37267,ALP,Australian Labor Party,DAVIS,Simon,2,575,69.440
+TAS,319,Clark,36817,AJP,Animal Justice Party,DAVIES,Casey,7,37141,LP,Liberal,COATS,Will,4,253,30.560
+TAS,319,Clark,36115,UAPP,United Australia Party,GALLOWAY,Sandra,8,37267,ALP,Australian Labor Party,DAVIS,Simon,2,419,44.530
+TAS,319,Clark,36115,UAPP,United Australia Party,GALLOWAY,Sandra,8,37141,LP,Liberal,COATS,Will,4,522,55.470
+VIC,320,Cooper,0,,,First Preferences,,0,36730,LP,Liberal,ATKINSON,Jadon,5,15329,28.340
+VIC,320,Cooper,0,,,First Preferences,,0,36384,ALP,Australian Labor Party,KEARNEY,Ged,8,38754,71.660
+VIC,320,Cooper,36690,AJP,Animal Justice Party,BANGAAR,Rabin,1,36730,LP,Liberal,ATKINSON,Jadon,5,1045,47.350
+VIC,320,Cooper,36690,AJP,Animal Justice Party,BANGAAR,Rabin,1,36384,ALP,Australian Labor Party,KEARNEY,Ged,8,1162,52.650
+VIC,320,Cooper,36659,VNS,Victorian Socialists,LARKIN,Kath,2,36730,LP,Liberal,ATKINSON,Jadon,5,392,12.060
+VIC,320,Cooper,36659,VNS,Victorian Socialists,LARKIN,Kath,2,36384,ALP,Australian Labor Party,KEARNEY,Ged,8,2858,87.940
+VIC,320,Cooper,36527,GVIC,The Greens,LIDDLE,Celeste,3,36730,LP,Liberal,ATKINSON,Jadon,5,1513,5.900
+VIC,320,Cooper,36527,GVIC,The Greens,LIDDLE,Celeste,3,36384,ALP,Australian Labor Party,KEARNEY,Ged,8,24135,94.100
+VIC,320,Cooper,36049,SOPA,FUSION: Science, Pirate, Secular, Climate Emergency,WHITEHEAD,Adrian,4,36730,LP,Liberal,ATKINSON,Jadon,5,374,23.600
+VIC,320,Cooper,36049,SOPA,FUSION: Science, Pirate, Secular, Climate Emergency,WHITEHEAD,Adrian,4,36384,ALP,Australian Labor Party,KEARNEY,Ged,8,1211,76.400
+VIC,320,Cooper,35995,UAPP,United Australia Party,LA ROSA,Adam,6,36730,LP,Liberal,ATKINSON,Jadon,5,2453,58.820
+VIC,320,Cooper,35995,UAPP,United Australia Party,LA ROSA,Adam,6,36384,ALP,Australian Labor Party,KEARNEY,Ged,8,1717,41.180
+VIC,320,Cooper,37778,ON,Pauline Hanson's One Nation,TURNER,William Tristan,7,36730,LP,Liberal,ATKINSON,Jadon,5,1901,67.720
+VIC,320,Cooper,37778,ON,Pauline Hanson's One Nation,TURNER,William Tristan,7,36384,ALP,Australian Labor Party,KEARNEY,Ged,8,906,32.280
+VIC,214,Goldstein,0,,,First Preferences,,0,36717,LP,Liberal,WILSON,Tim,8,39607,78.580
+VIC,214,Goldstein,0,,,First Preferences,,0,36416,ALP,Australian Labor Party,ABBOTT,Martyn,9,10799,21.420
+VIC,214,Goldstein,36687,GVIC,The Greens,GALLI-McROSTIE,Alana,1,36717,LP,Liberal,WILSON,Tim,8,1457,18.960
+VIC,214,Goldstein,36687,GVIC,The Greens,GALLI-McROSTIE,Alana,1,36416,ALP,Australian Labor Party,ABBOTT,Martyn,9,6226,81.040
+VIC,214,Goldstein,37279,DHJP,Derryn Hinch's Justice Party,SULLIVAN,Ellie Jean,2,36717,LP,Liberal,WILSON,Tim,8,376,63.840
+VIC,214,Goldstein,37279,DHJP,Derryn Hinch's Justice Party,SULLIVAN,Ellie Jean,2,36416,ALP,Australian Labor Party,ABBOTT,Martyn,9,213,36.160
+VIC,214,Goldstein,37572,SPP,Sustainable Australia Party - Stop Overdevelopment / Corruption,HOULT,Brandon,3,36717,LP,Liberal,WILSON,Tim,8,219,49.440
+VIC,214,Goldstein,37572,SPP,Sustainable Australia Party - Stop Overdevelopment / Corruption,HOULT,Brandon,3,36416,ALP,Australian Labor Party,ABBOTT,Martyn,9,224,50.560
+VIC,214,Goldstein,36932,LDP,Liberal Democrats,SEGAL,David,4,36717,LP,Liberal,WILSON,Tim,8,1713,82.670
+VIC,214,Goldstein,36932,LDP,Liberal Democrats,SEGAL,David,4,36416,ALP,Australian Labor Party,ABBOTT,Martyn,9,359,17.330
+VIC,214,Goldstein,36074,IND,Independent,DANIEL,Zoe,5,36717,LP,Liberal,WILSON,Tim,8,7970,23.570
+VIC,214,Goldstein,36074,IND,Independent,DANIEL,Zoe,5,36416,ALP,Australian Labor Party,ABBOTT,Martyn,9,25845,76.430
+VIC,214,Goldstein,37667,ON,Pauline Hanson's One Nation,STARK,Lisa,6,36717,LP,Liberal,WILSON,Tim,8,924,74.580
+VIC,214,Goldstein,37667,ON,Pauline Hanson's One Nation,STARK,Lisa,6,36416,ALP,Australian Labor Party,ABBOTT,Martyn,9,315,25.420
+VIC,214,Goldstein,36007,UAPP,United Australia Party,REYNOLDS,Catherine Frances,7,36717,LP,Liberal,WILSON,Tim,8,1484,80.650
+VIC,214,Goldstein,36007,UAPP,United Australia Party,REYNOLDS,Catherine Frances,7,36416,ALP,Australian Labor Party,ABBOTT,Martyn,9,356,19.350
+VIC,218,Indi,0,,,First Preferences,,0,36431,ALP,Australian Labor Party,DAVID,Nadia,8,8723,21.960
+VIC,218,Indi,0,,,First Preferences,,0,36721,LP,Liberal,LYMAN,Ross,10,30995,78.040
+VIC,218,Indi,36698,AJP,Animal Justice Party,ALEKSOV,Angel,1,36431,ALP,Australian Labor Party,DAVID,Nadia,8,1273,72.780
+VIC,218,Indi,36698,AJP,Animal Justice Party,ALEKSOV,Angel,1,36721,LP,Liberal,LYMAN,Ross,10,476,27.220
+VIC,218,Indi,32086,IND,Independent,HAINES,Helen,2,36431,ALP,Australian Labor Party,DAVID,Nadia,8,27852,67.410
+VIC,218,Indi,32086,IND,Independent,HAINES,Helen,2,36721,LP,Liberal,LYMAN,Ross,10,13467,32.590
+VIC,218,Indi,37281,DHJP,Derryn Hinch's Justice Party,O'CONNELL,Lachlan,3,36431,ALP,Australian Labor Party,DAVID,Nadia,8,610,56.800
+VIC,218,Indi,37281,DHJP,Derryn Hinch's Justice Party,O'CONNELL,Lachlan,3,36721,LP,Liberal,LYMAN,Ross,10,464,43.200
+VIC,218,Indi,36025,UAPP,United Australia Party,WILLIAMS,Stephen,4,36431,ALP,Australian Labor Party,DAVID,Nadia,8,979,38.270
+VIC,218,Indi,36025,UAPP,United Australia Party,WILLIAMS,Stephen,4,36721,LP,Liberal,LYMAN,Ross,10,1579,61.730
+VIC,218,Indi,37678,ON,Pauline Hanson's One Nation,STEVENS,Beth,5,36431,ALP,Australian Labor Party,DAVID,Nadia,8,1837,34.230
+VIC,218,Indi,37678,ON,Pauline Hanson's One Nation,STEVENS,Beth,5,36721,LP,Liberal,LYMAN,Ross,10,3529,65.770
+VIC,218,Indi,36531,GVIC,The Greens,GILBERT,Benjamin,6,36431,ALP,Australian Labor Party,DAVID,Nadia,8,3136,86.490
+VIC,218,Indi,36531,GVIC,The Greens,GILBERT,Benjamin,6,36721,LP,Liberal,LYMAN,Ross,10,490,13.510
+VIC,218,Indi,36055,NP,The Nationals,FISHER,Liz,7,36431,ALP,Australian Labor Party,DAVID,Nadia,8,601,15.590
+VIC,218,Indi,36055,NP,The Nationals,FISHER,Liz,7,36721,LP,Liberal,LYMAN,Ross,10,3253,84.410
+VIC,218,Indi,36898,LDP,Liberal Democrats,FIDGE,Julian,9,36431,ALP,Australian Labor Party,DAVID,Nadia,8,430,18.700
+VIC,218,Indi,36898,LDP,Liberal Democrats,FIDGE,Julian,9,36721,LP,Liberal,LYMAN,Ross,10,1870,81.300
+VIC,221,Kooyong,0,,,First Preferences,,0,36729,LP,Liberal,FRYDENBERG,Josh,7,43736,86.050
+VIC,221,Kooyong,0,,,First Preferences,,0,36442,ALP,Australian Labor Party,LYNCH,Peter,8,7091,13.950
+VIC,221,Kooyong,36081,IND,Independent,RYAN,Monique,1,36729,LP,Liberal,FRYDENBERG,Josh,7,8064,19.520
+VIC,221,Kooyong,36081,IND,Independent,RYAN,Monique,1,36442,ALP,Australian Labor Party,LYNCH,Peter,8,33239,80.480
+VIC,221,Kooyong,36035,UAPP,United Australia Party,HARDIMAN,Scott Andrew,2,36729,LP,Liberal,FRYDENBERG,Josh,7,775,76.660
+VIC,221,Kooyong,36035,UAPP,United Australia Party,HARDIMAN,Scott Andrew,2,36442,ALP,Australian Labor Party,LYNCH,Peter,8,236,23.340
+VIC,221,Kooyong,36949,LDP,Liberal Democrats,THOM,Alexandra,3,36729,LP,Liberal,FRYDENBERG,Josh,7,823,76.200
+VIC,221,Kooyong,36949,LDP,Liberal Democrats,THOM,Alexandra,3,36442,ALP,Australian Labor Party,LYNCH,Peter,8,257,23.800
+VIC,221,Kooyong,37284,DHJP,Derryn Hinch's Justice Party,DALE,Michele,4,36729,LP,Liberal,FRYDENBERG,Josh,7,98,55.370
+VIC,221,Kooyong,37284,DHJP,Derryn Hinch's Justice Party,DALE,Michele,4,36442,ALP,Australian Labor Party,LYNCH,Peter,8,79,44.630
+VIC,221,Kooyong,37640,ON,Pauline Hanson's One Nation,COYNE,Josh,5,36729,LP,Liberal,FRYDENBERG,Josh,7,576,77.730
+VIC,221,Kooyong,37640,ON,Pauline Hanson's One Nation,COYNE,Josh,5,36442,ALP,Australian Labor Party,LYNCH,Peter,8,165,22.270
+VIC,221,Kooyong,37800,IND,Independent,ANDERSON,Will,6,36729,LP,Liberal,FRYDENBERG,Josh,7,142,53.580
+VIC,221,Kooyong,37800,IND,Independent,ANDERSON,Will,6,36442,ALP,Australian Labor Party,LYNCH,Peter,8,123,46.420
+VIC,221,Kooyong,36695,AJP,Animal Justice Party,NEHMER,Rachael,9,36729,LP,Liberal,FRYDENBERG,Josh,7,181,36.200
+VIC,221,Kooyong,36695,AJP,Animal Justice Party,NEHMER,Rachael,9,36442,ALP,Australian Labor Party,LYNCH,Peter,8,319,63.800
+VIC,221,Kooyong,36544,GVIC,The Greens,MITCHEM,Piers,10,36729,LP,Liberal,FRYDENBERG,Josh,7,1068,16.530
+VIC,221,Kooyong,36544,GVIC,The Greens,MITCHEM,Piers,10,36442,ALP,Australian Labor Party,LYNCH,Peter,8,5393,83.470
+VIC,221,Kooyong,37245,AUVA,Australian Values Party,CONNOLLY,David,11,36729,LP,Liberal,FRYDENBERG,Josh,7,79,51.970
+VIC,221,Kooyong,37245,AUVA,Australian Values Party,CONNOLLY,David,11,36442,ALP,Australian Labor Party,LYNCH,Peter,8,73,48.030
+VIC,228,Melbourne,0,,,First Preferences,,0,36448,ALP,Australian Labor Party,PATERSON,Keir,2,24155,62.230
+VIC,228,Melbourne,0,,,First Preferences,,0,36727,LP,Liberal,DAMCHES,James,4,14660,37.770
+VIC,228,Melbourne,36034,UAPP,United Australia Party,BORG,Justin,1,36448,ALP,Australian Labor Party,PATERSON,Keir,2,715,41.840
+VIC,228,Melbourne,36034,UAPP,United Australia Party,BORG,Justin,1,36727,LP,Liberal,DAMCHES,James,4,994,58.160
+VIC,228,Melbourne,36551,GVIC,The Greens,BANDT,Adam,3,36448,ALP,Australian Labor Party,PATERSON,Keir,2,45012,94.000
+VIC,228,Melbourne,36551,GVIC,The Greens,BANDT,Adam,3,36727,LP,Liberal,DAMCHES,James,4,2871,6.000
+VIC,228,Melbourne,36948,LDP,Liberal Democrats,PEPPARD,Richard,5,36448,ALP,Australian Labor Party,PATERSON,Keir,2,474,29.700
+VIC,228,Melbourne,36948,LDP,Liberal Democrats,PEPPARD,Richard,5,36727,LP,Liberal,DAMCHES,James,4,1122,70.300
+VIC,228,Melbourne,37817,IND,Independent,ROBSON,Scott,6,36448,ALP,Australian Labor Party,PATERSON,Keir,2,609,55.670
+VIC,228,Melbourne,37817,IND,Independent,ROBSON,Scott,6,36727,LP,Liberal,DAMCHES,James,4,485,44.330
+VIC,228,Melbourne,37775,ON,Pauline Hanson's One Nation,STRAGAN,Walter,7,36448,ALP,Australian Labor Party,PATERSON,Keir,2,264,28.180
+VIC,228,Melbourne,37775,ON,Pauline Hanson's One Nation,STRAGAN,Walter,7,36727,LP,Liberal,DAMCHES,James,4,673,71.820
+VIC,228,Melbourne,36680,AJP,Animal Justice Party,POON,Bruce,8,36448,ALP,Australian Labor Party,PATERSON,Keir,2,980,74.470
+VIC,228,Melbourne,36680,AJP,Animal Justice Party,POON,Bruce,8,36727,LP,Liberal,DAMCHES,James,4,336,25.530
+VIC,228,Melbourne,36661,VNS,Victorian Socialists,BOLGER,Colleen,9,36448,ALP,Australian Labor Party,PATERSON,Keir,2,2982,94.490
+VIC,228,Melbourne,36661,VNS,Victorian Socialists,BOLGER,Colleen,9,36727,LP,Liberal,DAMCHES,James,4,174,5.510
+VIC,324,Nicholls,0,,,First Preferences,,0,36061,NP,The Nationals,BIRRELL,Sam,2,24886,69.410
+VIC,324,Nicholls,0,,,First Preferences,,0,36451,ALP,Australian Labor Party,LODWICK,Bill,4,10970,30.590
+VIC,324,Nicholls,36951,LDP,Liberal Democrats,LAIRD,Tim,1,36061,NP,The Nationals,BIRRELL,Sam,2,2564,76.170
+VIC,324,Nicholls,36951,LDP,Liberal Democrats,LAIRD,Tim,1,36451,ALP,Australian Labor Party,LODWICK,Bill,4,802,23.830
+VIC,324,Nicholls,37691,ON,Pauline Hanson's One Nation,TYRRELL,Rikkie-Lee,3,36061,NP,The Nationals,BIRRELL,Sam,2,4579,73.630
+VIC,324,Nicholls,37691,ON,Pauline Hanson's One Nation,TYRRELL,Rikkie-Lee,3,36451,ALP,Australian Labor Party,LODWICK,Bill,4,1640,26.370
+VIC,324,Nicholls,35967,CEC,Citizens Party,DAVY,Jeff,5,36061,NP,The Nationals,BIRRELL,Sam,2,214,56.760
+VIC,324,Nicholls,35967,CEC,Citizens Party,DAVY,Jeff,5,36451,ALP,Australian Labor Party,LODWICK,Bill,4,163,43.240
+VIC,324,Nicholls,36026,UAPP,United Australia Party,PETERSON,Robert,6,36061,NP,The Nationals,BIRRELL,Sam,2,2849,74.560
+VIC,324,Nicholls,36026,UAPP,United Australia Party,PETERSON,Robert,6,36451,ALP,Australian Labor Party,LODWICK,Bill,4,972,25.440
+VIC,324,Nicholls,36565,GVIC,The Greens,CHRISTOE,Ian,7,36061,NP,The Nationals,BIRRELL,Sam,2,738,24.130
+VIC,324,Nicholls,36565,GVIC,The Greens,CHRISTOE,Ian,7,36451,ALP,Australian Labor Party,LODWICK,Bill,4,2320,75.870
+VIC,324,Nicholls,36051,SOPA,FUSION: Science, Pirate, Secular, Climate Emergency,OTTO,Andrea,8,36061,NP,The Nationals,BIRRELL,Sam,2,233,35.680
+VIC,324,Nicholls,36051,SOPA,FUSION: Science, Pirate, Secular, Climate Emergency,OTTO,Andrea,8,36451,ALP,Australian Labor Party,LODWICK,Bill,4,420,64.320
+VIC,324,Nicholls,36739,LP,Liberal,BROOKS,Steve,9,36061,NP,The Nationals,BIRRELL,Sam,2,15492,90.140
+VIC,324,Nicholls,36739,LP,Liberal,BROOKS,Steve,9,36451,ALP,Australian Labor Party,LODWICK,Bill,4,1695,9.860
+VIC,324,Nicholls,37764,CYA,Australian Federation Party,TABONE,Eleonor,10,36061,NP,The Nationals,BIRRELL,Sam,2,229,62.400
+VIC,324,Nicholls,37764,CYA,Australian Federation Party,TABONE,Eleonor,10,36451,ALP,Australian Labor Party,LODWICK,Bill,4,138,37.600
+VIC,324,Nicholls,37571,IND,Independent,PRIESTLY,Rob,11,36061,NP,The Nationals,BIRRELL,Sam,2,12134,49.960
+VIC,324,Nicholls,37571,IND,Independent,PRIESTLY,Rob,11,36451,ALP,Australian Labor Party,LODWICK,Bill,4,12153,50.040
+VIC,233,Wannon,0,,,First Preferences,,0,36735,LP,Liberal,TEHAN,Dan,2,44948,69.960
+VIC,233,Wannon,0,,,First Preferences,,0,36450,ALP,Australian Labor Party,WILSON,Gilbert,8,19303,30.040
+VIC,233,Wannon,37812,IND,Independent,GARNER,Graham,1,36735,LP,Liberal,TEHAN,Dan,2,1354,57.720
+VIC,233,Wannon,37812,IND,Independent,GARNER,Graham,1,36450,ALP,Australian Labor Party,WILSON,Gilbert,8,992,42.280
+VIC,233,Wannon,37820,ON,Pauline Hanson's One Nation,GRAHAM,Ronnie,3,36735,LP,Liberal,TEHAN,Dan,2,2115,64.580
+VIC,233,Wannon,37820,ON,Pauline Hanson's One Nation,GRAHAM,Ronnie,3,36450,ALP,Australian Labor Party,WILSON,Gilbert,8,1160,35.420
+VIC,233,Wannon,36670,GVIC,The Greens,McALLISTER,Hilary,4,36735,LP,Liberal,TEHAN,Dan,2,1088,16.880
+VIC,233,Wannon,36670,GVIC,The Greens,McALLISTER,Hilary,4,36450,ALP,Australian Labor Party,WILSON,Gilbert,8,5356,83.120
+VIC,233,Wannon,33601,IND,Independent,DYSON,Alex,5,36735,LP,Liberal,TEHAN,Dan,2,6595,33.810
+VIC,233,Wannon,33601,IND,Independent,DYSON,Alex,5,36450,ALP,Australian Labor Party,WILSON,Gilbert,8,12909,66.190
+VIC,233,Wannon,36030,UAPP,United Australia Party,KENSEN,Craige,6,36735,LP,Liberal,TEHAN,Dan,2,2305,69.680
+VIC,233,Wannon,36030,UAPP,United Australia Party,KENSEN,Craige,6,36450,ALP,Australian Labor Party,WILSON,Gilbert,8,1003,30.320
+VIC,233,Wannon,36931,LDP,Liberal Democrats,MEAD,Amanda,7,36735,LP,Liberal,TEHAN,Dan,2,1317,66.750
+VIC,233,Wannon,36931,LDP,Liberal Democrats,MEAD,Amanda,7,36450,ALP,Australian Labor Party,WILSON,Gilbert,8,656,33.250
+VIC,234,Wills,0,,,First Preferences,,0,36738,LP,Liberal,WRIGHT,Tom,1,15771,30.790
+VIC,234,Wills,0,,,First Preferences,,0,36452,ALP,Australian Labor Party,KHALIL,Peter,7,35449,69.210
+VIC,234,Wills,37747,ON,Pauline Hanson's One Nation,TINDAL,Jill,2,36738,LP,Liberal,WRIGHT,Tom,1,1713,67.070
+VIC,234,Wills,37747,ON,Pauline Hanson's One Nation,TINDAL,Jill,2,36452,ALP,Australian Labor Party,KHALIL,Peter,7,841,32.930
+VIC,234,Wills,36664,VNS,Victorian Socialists,BLACK,Emma,3,36738,LP,Liberal,WRIGHT,Tom,1,218,8.030
+VIC,234,Wills,36664,VNS,Victorian Socialists,BLACK,Emma,3,36452,ALP,Australian Labor Party,KHALIL,Peter,7,2496,91.970
+VIC,234,Wills,37770,CYA,Australian Federation Party,SERGI,Sam,4,36738,LP,Liberal,WRIGHT,Tom,1,467,59.190
+VIC,234,Wills,37770,CYA,Australian Federation Party,SERGI,Sam,4,36452,ALP,Australian Labor Party,KHALIL,Peter,7,322,40.810
+VIC,234,Wills,36958,SAL,Socialist Alliance,BOLTON,Sue,5,36738,LP,Liberal,WRIGHT,Tom,1,319,10.300
+VIC,234,Wills,36958,SAL,Socialist Alliance,BOLTON,Sue,5,36452,ALP,Australian Labor Party,KHALIL,Peter,7,2777,89.700
+VIC,234,Wills,36031,UAPP,United Australia Party,ZIVKOVIC,Irene,6,36738,LP,Liberal,WRIGHT,Tom,1,1768,52.740
+VIC,234,Wills,36031,UAPP,United Australia Party,ZIVKOVIC,Irene,6,36452,ALP,Australian Labor Party,KHALIL,Peter,7,1584,47.260
+VIC,234,Wills,36686,AJP,Animal Justice Party,HORSFALL,Leah,8,36738,LP,Liberal,WRIGHT,Tom,1,464,27.620
+VIC,234,Wills,36686,AJP,Animal Justice Party,HORSFALL,Leah,8,36452,ALP,Australian Labor Party,KHALIL,Peter,7,1216,72.380
+VIC,234,Wills,36554,GVIC,The Greens,JEFFORD,Sarah,9,36738,LP,Liberal,WRIGHT,Tom,1,1374,5.330
+VIC,234,Wills,36554,GVIC,The Greens,JEFFORD,Sarah,9,36452,ALP,Australian Labor Party,KHALIL,Peter,7,24419,94.670
+WA,238,Curtin,0,,,First Preferences,,0,36578,LP,Liberal,HAMMOND,Celia,4,43408,74.760
+WA,238,Curtin,0,,,First Preferences,,0,37282,ALP,Australian Labor Party,SPENCER,Yannick,7,14654,25.240
+WA,238,Curtin,36485,UAPP,United Australia Party,VERHOEFF,Ladeisha Louise,1,36578,LP,Liberal,HAMMOND,Celia,4,1345,73.580
+WA,238,Curtin,36485,UAPP,United Australia Party,VERHOEFF,Ladeisha Louise,1,37282,ALP,Australian Labor Party,SPENCER,Yannick,7,483,26.420
+WA,238,Curtin,37840,WAP,WESTERN AUSTRALIA PARTY,BURN,Bill,2,36578,LP,Liberal,HAMMOND,Celia,4,734,59.050
+WA,238,Curtin,37840,WAP,WESTERN AUSTRALIA PARTY,BURN,Bill,2,37282,ALP,Australian Labor Party,SPENCER,Yannick,7,509,40.950
+WA,238,Curtin,37255,CYA,Australian Federation Party,CULLITY,Judith,3,36578,LP,Liberal,HAMMOND,Celia,4,535,70.120
+WA,238,Curtin,37255,CYA,Australian Federation Party,CULLITY,Judith,3,37282,ALP,Australian Labor Party,SPENCER,Yannick,7,228,29.880
+WA,238,Curtin,37395,ON,Pauline Hanson's One Nation,GRILLO,Dale Marie,5,36578,LP,Liberal,HAMMOND,Celia,4,917,70.000
+WA,238,Curtin,37395,ON,Pauline Hanson's One Nation,GRILLO,Dale Marie,5,37282,ALP,Australian Labor Party,SPENCER,Yannick,7,393,30.000
+WA,238,Curtin,36589,IND,Independent,CHANEY,Kate,6,36578,LP,Liberal,HAMMOND,Celia,4,9954,32.170
+WA,238,Curtin,36589,IND,Independent,CHANEY,Kate,6,37282,ALP,Australian Labor Party,SPENCER,Yannick,7,20988,67.830
+WA,238,Curtin,36593,GRN,The Greens (WA),PIDGEON,Cameron,8,36578,LP,Liberal,HAMMOND,Celia,4,1508,13.850
+WA,238,Curtin,36593,GRN,The Greens (WA),PIDGEON,Cameron,8,37282,ALP,Australian Labor Party,SPENCER,Yannick,7,9381,86.150

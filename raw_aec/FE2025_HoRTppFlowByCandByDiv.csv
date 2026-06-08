@@ -1,0 +1,459 @@
+StateAb,DivisionId,DivisionNm,FromCandidateId,FromCandidatePartyAb,FromCandidatePartyNm,FromCandidateSurname,FromCandidateGivenNm,FromCandidateBallotPosition(0 for TPP candidates),ToCandidateId,ToCandidatePartyAb,ToCandidatePartyNm,ToCandidateSurname,ToCandidateGivenNm,ToCandidateBallotPosition,TransferCount,TransferPercentage
+ACT,318,Bean,0,,,First Preferences,,0,41076,LP,Liberal,LAMERTON,David,1,23665,35.950
+ACT,318,Bean,0,,,First Preferences,,0,40676,ALP,Australian Labor Party,SMITH,David,4,42158,64.050
+ACT,318,Bean,41682,IND,Independent,PRICE,Jessie,2,41076,LP,Liberal,LAMERTON,David,1,7049,25.990
+ACT,318,Bean,41682,IND,Independent,PRICE,Jessie,2,40676,ALP,Australian Labor Party,SMITH,David,4,20071,74.010
+ACT,318,Bean,41436,GRN,Australian Greens,CARTER,Sam,3,41076,LP,Liberal,LAMERTON,David,1,825,8.460
+ACT,318,Bean,41436,GRN,Australian Greens,CARTER,Sam,3,40676,ALP,Australian Labor Party,SMITH,David,4,8932,91.540
+ACT,101,Canberra,0,,,First Preferences,,0,41077,LP,Liberal,ROCHE,Will,4,17101,27.480
+ACT,101,Canberra,0,,,First Preferences,,0,40677,ALP,Australian Labor Party,PAYNE,Alicia,5,45133,72.520
+ACT,101,Canberra,41390,GRN,Australian Greens,MUDFORD,Isabel,1,41077,LP,Liberal,ROCHE,Will,4,849,4.590
+ACT,101,Canberra,41390,GRN,Australian Greens,MUDFORD,Isabel,1,40677,ALP,Australian Labor Party,PAYNE,Alicia,5,17655,95.410
+ACT,101,Canberra,41742,IMO,HEART Party,LIDDICOAT,Mary-Jane,2,41077,LP,Liberal,ROCHE,Will,4,826,67.590
+ACT,101,Canberra,41742,IMO,HEART Party,LIDDICOAT,Mary-Jane,2,40677,ALP,Australian Labor Party,PAYNE,Alicia,5,396,32.410
+ACT,101,Canberra,41696,IND,Independent,MILES,Claire,3,41077,LP,Liberal,ROCHE,Will,4,2937,28.830
+ACT,101,Canberra,41696,IND,Independent,MILES,Claire,3,40677,ALP,Australian Labor Party,PAYNE,Alicia,5,7250,71.170
+ACT,101,Canberra,41706,AJP,AJP,McTAGGART,Teresa,6,41077,LP,Liberal,ROCHE,Will,4,314,24.960
+ACT,101,Canberra,41706,AJP,AJP,McTAGGART,Teresa,6,40677,ALP,Australian Labor Party,PAYNE,Alicia,5,944,75.040
+NSW,108,Bradfield,0,,,First Preferences,,0,41324,ALP,Labor,McCALLUM,Louise,4,22768,34.790
+NSW,108,Bradfield,0,,,First Preferences,,0,41464,LP,Liberal,KAPTERIAN,Gisele,6,42676,65.210
+NSW,108,Bradfield,42097,LTP,Libertarian,GUNNING,Samuel Joseph,1,41324,ALP,Labor,McCALLUM,Louise,4,823,59.810
+NSW,108,Bradfield,42097,LTP,Libertarian,GUNNING,Samuel Joseph,1,41464,LP,Liberal,KAPTERIAN,Gisele,6,553,40.190
+NSW,108,Bradfield,41511,GRN,The Greens,SINGH,Harjit,2,41324,ALP,Labor,McCALLUM,Louise,4,4598,60.890
+NSW,108,Bradfield,41511,GRN,The Greens,SINGH,Harjit,2,41464,LP,Liberal,KAPTERIAN,Gisele,6,2953,39.110
+NSW,108,Bradfield,41989,IND,Independent,YIN,Andy,3,41324,ALP,Labor,McCALLUM,Louise,4,2792,60.240
+NSW,108,Bradfield,41989,IND,Independent,YIN,Andy,3,41464,LP,Liberal,KAPTERIAN,Gisele,6,1843,39.760
+NSW,108,Bradfield,41891,ON,Pauline Hanson's One Nation,MANTON,John,5,41324,ALP,Labor,McCALLUM,Louise,4,1013,58.720
+NSW,108,Bradfield,41891,ON,Pauline Hanson's One Nation,MANTON,John,5,41464,LP,Liberal,KAPTERIAN,Gisele,6,712,41.280
+NSW,108,Bradfield,36047,IND,Independent,BOELE,Nicolette,7,41324,ALP,Labor,McCALLUM,Louise,4,17861,58.930
+NSW,108,Bradfield,36047,IND,Independent,BOELE,Nicolette,7,41464,LP,Liberal,KAPTERIAN,Gisele,6,12448,41.070
+NSW,108,Bradfield,41790,CYA,Trumpet of Patriots,MULLIGAN,Rosemary,8,41324,ALP,Labor,McCALLUM,Louise,4,689,59.290
+NSW,108,Bradfield,41790,CYA,Trumpet of Patriots,MULLIGAN,Rosemary,8,41464,LP,Liberal,KAPTERIAN,Gisele,6,473,40.710
+NSW,109,Calare,0,,,First Preferences,,0,41345,ALP,Labor,CUNNINGHAM,Julie,9,11086,25.990
+NSW,109,Calare,0,,,First Preferences,,0,42037,NP,The Nationals,FARRAWAY,Sam,10,31577,74.010
+NSW,109,Calare,41902,ON,Pauline Hanson's One Nation,HUGHES,Jennifer,1,41345,ALP,Labor,CUNNINGHAM,Julie,9,1838,22.410
+NSW,109,Calare,41902,ON,Pauline Hanson's One Nation,HUGHES,Jennifer,1,42037,NP,The Nationals,FARRAWAY,Sam,10,6362,77.590
+NSW,109,Calare,41931,HMP,Legalise Cannabis Party,RAYE,Sue,2,41345,ALP,Labor,CUNNINGHAM,Julie,9,2347,56.390
+NSW,109,Calare,41931,HMP,Legalise Cannabis Party,RAYE,Sue,2,42037,NP,The Nationals,FARRAWAY,Sam,10,1815,43.610
+NSW,109,Calare,35951,IND,Independent,HOOK,Kate,3,41345,ALP,Labor,CUNNINGHAM,Julie,9,11227,67.000
+NSW,109,Calare,35951,IND,Independent,HOOK,Kate,3,42037,NP,The Nationals,FARRAWAY,Sam,10,5529,33.000
+NSW,109,Calare,41770,CYA,Trumpet of Patriots,O'LEARY,Vicki Elizabeth,4,41345,ALP,Labor,CUNNINGHAM,Julie,9,454,28.680
+NSW,109,Calare,41770,CYA,Trumpet of Patriots,O'LEARY,Vicki Elizabeth,4,42037,NP,The Nationals,FARRAWAY,Sam,10,1129,71.320
+NSW,109,Calare,41518,GRN,The Greens,PARKER,Ben,5,41345,ALP,Labor,CUNNINGHAM,Julie,9,3018,80.420
+NSW,109,Calare,41518,GRN,The Greens,PARKER,Ben,5,42037,NP,The Nationals,FARRAWAY,Sam,10,735,19.580
+NSW,109,Calare,41678,FFPA,Family First,HAZELTON,Ross Angus,6,41345,ALP,Labor,CUNNINGHAM,Julie,9,365,21.060
+NSW,109,Calare,41678,FFPA,Family First,HAZELTON,Ross Angus,6,42037,NP,The Nationals,FARRAWAY,Sam,10,1368,78.940
+NSW,109,Calare,36348,IND,Independent,GEE,Andrew,7,41345,ALP,Labor,CUNNINGHAM,Julie,9,8961,35.600
+NSW,109,Calare,36348,IND,Independent,GEE,Andrew,7,42037,NP,The Nationals,FARRAWAY,Sam,10,16211,64.400
+NSW,109,Calare,41649,ASP,Shooters, Fishers and Farmers Party,LESAGE,Jase,8,41345,ALP,Labor,CUNNINGHAM,Julie,9,813,36.210
+NSW,109,Calare,41649,ASP,Shooters, Fishers and Farmers Party,LESAGE,Jase,8,42037,NP,The Nationals,FARRAWAY,Sam,10,1432,63.790
+NSW,113,Cowper,0,,,First Preferences,,0,41332,ALP,Labor,VIGORS,Greg,1,12713,23.740
+NSW,113,Cowper,0,,,First Preferences,,0,41937,NP,The Nationals,CONAGHAN,Pat,5,40836,76.260
+NSW,113,Cowper,41718,IND,Independent,DALEY,Zeke,2,41332,ALP,Labor,VIGORS,Greg,1,465,52.130
+NSW,113,Cowper,41718,IND,Independent,DALEY,Zeke,2,41937,NP,The Nationals,CONAGHAN,Pat,5,427,47.870
+NSW,113,Cowper,41443,HMP,Legalise Cannabis Party,MATHEW,Megan,3,41332,ALP,Labor,VIGORS,Greg,1,2535,48.660
+NSW,113,Cowper,41443,HMP,Legalise Cannabis Party,MATHEW,Megan,3,41937,NP,The Nationals,CONAGHAN,Pat,5,2675,51.340
+NSW,113,Cowper,41775,CYA,Trumpet of Patriots,SHANNON,Geoffrey,4,41332,ALP,Labor,VIGORS,Greg,1,429,27.660
+NSW,113,Cowper,41775,CYA,Trumpet of Patriots,SHANNON,Geoffrey,4,41937,NP,The Nationals,CONAGHAN,Pat,5,1122,72.340
+NSW,113,Cowper,41689,LTP,Libertarian,TEMPLETON,Paul,6,41332,ALP,Labor,VIGORS,Greg,1,362,25.800
+NSW,113,Cowper,41689,LTP,Libertarian,TEMPLETON,Paul,6,41937,NP,The Nationals,CONAGHAN,Pat,5,1041,74.200
+NSW,113,Cowper,41798,FFPA,Family First,JACKEL,Peter,7,41332,ALP,Labor,VIGORS,Greg,1,297,16.050
+NSW,113,Cowper,41798,FFPA,Family First,JACKEL,Peter,7,41937,NP,The Nationals,CONAGHAN,Pat,5,1554,83.950
+NSW,113,Cowper,41528,GRN,The Greens,FIREFLY,Wendy,8,41332,ALP,Labor,VIGORS,Greg,1,3671,80.650
+NSW,113,Cowper,41528,GRN,The Greens,FIREFLY,Wendy,8,41937,NP,The Nationals,CONAGHAN,Pat,5,881,19.350
+NSW,113,Cowper,36245,IND,Independent,HEISE,Caz,9,41332,ALP,Labor,VIGORS,Greg,1,22477,71.090
+NSW,113,Cowper,36245,IND,Independent,HEISE,Caz,9,41937,NP,The Nationals,CONAGHAN,Pat,5,9139,28.910
+NSW,113,Cowper,41860,SOPA,FUSION | Planet Rescue | Whistleblower Protection | Innovation,MARLOW,Geoffrey,10,41332,ALP,Labor,VIGORS,Greg,1,138,54.120
+NSW,113,Cowper,41860,SOPA,FUSION | Planet Rescue | Whistleblower Protection | Innovation,MARLOW,Geoffrey,10,41937,NP,The Nationals,CONAGHAN,Pat,5,117,45.880
+NSW,113,Cowper,41876,ON,Pauline Hanson's One Nation,WALSH,Chris,11,41332,ALP,Labor,VIGORS,Greg,1,1002,14.610
+NSW,113,Cowper,41876,ON,Pauline Hanson's One Nation,WALSH,Chris,11,41937,NP,The Nationals,CONAGHAN,Pat,5,5854,85.390
+NSW,118,Farrer,0,,,First Preferences,,0,41463,LP,Liberal,LEY,Sussan,1,44743,74.210
+NSW,118,Farrer,0,,,First Preferences,,0,41352,ALP,Labor,HYDE,Glen,2,15551,25.790
+NSW,118,Farrer,40627,IND,Independent,MILTHORPE,Michelle,3,41463,LP,Liberal,LEY,Sussan,1,7432,36.140
+NSW,118,Farrer,40627,IND,Independent,MILTHORPE,Michelle,3,41352,ALP,Labor,HYDE,Glen,2,13135,63.860
+NSW,118,Farrer,41559,GRN,The Greens,HENDRIE,Richard August,4,41463,LP,Liberal,LEY,Sussan,1,840,16.520
+NSW,118,Farrer,41559,GRN,The Greens,HENDRIE,Richard August,4,41352,ALP,Labor,HYDE,Glen,2,4245,83.480
+NSW,118,Farrer,41959,ON,Pauline Hanson's One Nation,HICKS,Emma,5,41463,LP,Liberal,LEY,Sussan,1,5052,74.260
+NSW,118,Farrer,41959,ON,Pauline Hanson's One Nation,HICKS,Emma,5,41352,ALP,Labor,HYDE,Glen,2,1751,25.740
+NSW,118,Farrer,41644,ASP,Shooters, Fishers and Farmers Party,SINCLAIR,Peter,6,41463,LP,Liberal,LEY,Sussan,1,2148,60.050
+NSW,118,Farrer,41644,ASP,Shooters, Fishers and Farmers Party,SINCLAIR,Peter,6,41352,ALP,Labor,HYDE,Glen,2,1429,39.950
+NSW,118,Farrer,42016,GRPF,Gerard Rennick People First,O'REILLY,David,7,41463,LP,Liberal,LEY,Sussan,1,1654,79.600
+NSW,118,Farrer,42016,GRPF,Gerard Rennick People First,O'REILLY,David,7,41352,ALP,Labor,HYDE,Glen,2,424,20.400
+NSW,118,Farrer,41793,FFPA,Family First,SCRIVEN,Rebecca,8,41463,LP,Liberal,LEY,Sussan,1,1506,67.900
+NSW,118,Farrer,41793,FFPA,Family First,SCRIVEN,Rebecca,8,41352,ALP,Labor,HYDE,Glen,2,712,32.100
+NSW,118,Farrer,41707,CYA,Trumpet of Patriots,HARGRAVES,Tanya,9,41463,LP,Liberal,LEY,Sussan,1,1437,58.870
+NSW,118,Farrer,41707,CYA,Trumpet of Patriots,HARGRAVES,Tanya,9,41352,ALP,Labor,HYDE,Glen,2,1004,41.130
+NSW,119,Fowler,0,,,First Preferences,,0,41357,ALP,Labor,LE,Tu,6,34909,75.380
+NSW,119,Fowler,0,,,First Preferences,,0,41460,LP,Liberal,SINGHA,Vivek,7,11404,24.620
+NSW,119,Fowler,41806,FFPA,Family First,ATHAVLE,Jared,1,41357,ALP,Labor,LE,Tu,6,2507,69.680
+NSW,119,Fowler,41806,FFPA,Family First,ATHAVLE,Jared,1,41460,LP,Liberal,SINGHA,Vivek,7,1091,30.320
+NSW,119,Fowler,41641,LTP,Libertarian,TEY,Victor,2,41357,ALP,Labor,LE,Tu,6,770,42.870
+NSW,119,Fowler,41641,LTP,Libertarian,TEY,Victor,2,41460,LP,Liberal,SINGHA,Vivek,7,1026,57.130
+NSW,119,Fowler,36240,IND,Independent,LE,Dai,3,41357,ALP,Labor,LE,Tu,6,18117,58.240
+NSW,119,Fowler,36240,IND,Independent,LE,Dai,3,41460,LP,Liberal,SINGHA,Vivek,7,12991,41.760
+NSW,119,Fowler,41556,GRN,The Greens,HOWARD,Avery Jacob,4,41357,ALP,Labor,LE,Tu,6,5466,86.930
+NSW,119,Fowler,41556,GRN,The Greens,HOWARD,Avery Jacob,4,41460,LP,Liberal,SINGHA,Vivek,7,822,13.070
+NSW,119,Fowler,41956,ON,Pauline Hanson's One Nation,MARGOS,Tony,5,41357,ALP,Labor,LE,Tu,6,1602,41.770
+NSW,119,Fowler,41956,ON,Pauline Hanson's One Nation,MARGOS,Tony,5,41460,LP,Liberal,SINGHA,Vivek,7,2233,58.230
+NSW,121,Grayndler,0,,,First Preferences,,0,41472,LP,Liberal,SMALLBONE,David,2,15867,21.090
+NSW,121,Grayndler,0,,,First Preferences,,0,41373,ALP,Labor,ALBANESE,Anthony,5,59364,78.910
+NSW,121,Grayndler,41960,ON,Pauline Hanson's One Nation,SMITH,Rodney,1,41472,LP,Liberal,SMALLBONE,David,2,2958,84.390
+NSW,121,Grayndler,41960,ON,Pauline Hanson's One Nation,SMITH,Rodney,1,41373,ALP,Labor,ALBANESE,Anthony,5,547,15.610
+NSW,121,Grayndler,41714,CYA,Trumpet of Patriots,BURRELL,Cheri Rae,3,41472,LP,Liberal,SMALLBONE,David,2,1209,69.920
+NSW,121,Grayndler,41714,CYA,Trumpet of Patriots,BURRELL,Cheri Rae,3,41373,ALP,Labor,ALBANESE,Anthony,5,520,30.080
+NSW,121,Grayndler,41565,GRN,The Greens,THOMAS,Hannah,4,41472,LP,Liberal,SMALLBONE,David,2,1111,3.990
+NSW,121,Grayndler,41565,GRN,The Greens,THOMAS,Hannah,4,41373,ALP,Labor,ALBANESE,Anthony,5,26736,96.010
+NSW,121,Grayndler,40978,IND,Independent,BRADBURY,David,6,41472,LP,Liberal,SMALLBONE,David,2,836,32.580
+NSW,121,Grayndler,40978,IND,Independent,BRADBURY,David,6,41373,ALP,Labor,ALBANESE,Anthony,5,1730,67.420
+NSW,126,Hunter,0,,,First Preferences,,0,41944,NP,The Nationals,GILROY,Sue,2,20290,29.460
+NSW,126,Hunter,0,,,First Preferences,,0,41407,ALP,Labor,REPACHOLI,Dan,8,48582,70.540
+NSW,126,Hunter,41965,ON,Pauline Hanson's One Nation,BONDS,Stuart,1,41944,NP,The Nationals,GILROY,Sue,2,14392,79.910
+NSW,126,Hunter,41965,ON,Pauline Hanson's One Nation,BONDS,Stuart,1,41407,ALP,Labor,REPACHOLI,Dan,8,3619,20.090
+NSW,126,Hunter,41948,HMP,Legalise Cannabis Party,FENWICK,Andrew David,3,41944,NP,The Nationals,GILROY,Sue,2,2520,44.560
+NSW,126,Hunter,41948,HMP,Legalise Cannabis Party,FENWICK,Andrew David,3,41407,ALP,Labor,REPACHOLI,Dan,8,3135,55.440
+NSW,126,Hunter,40876,AJP,Animal Justice Party,DAVIES,Victoria,4,41944,NP,The Nationals,GILROY,Sue,2,722,44.320
+NSW,126,Hunter,40876,AJP,Animal Justice Party,DAVIES,Victoria,4,41407,ALP,Labor,REPACHOLI,Dan,8,907,55.680
+NSW,126,Hunter,41796,FFPA,Family First,FARRELLY,Paul,5,41944,NP,The Nationals,GILROY,Sue,2,1857,70.230
+NSW,126,Hunter,41796,FFPA,Family First,FARRELLY,Paul,5,41407,ALP,Labor,REPACHOLI,Dan,8,787,29.770
+NSW,126,Hunter,41646,ASP,Shooters, Fishers and Farmers Party,BODDAN,Kyle,6,41944,NP,The Nationals,GILROY,Sue,2,1374,54.810
+NSW,126,Hunter,41646,ASP,Shooters, Fishers and Farmers Party,BODDAN,Kyle,6,41407,ALP,Labor,REPACHOLI,Dan,8,1133,45.190
+NSW,126,Hunter,41778,CYA,Trumpet of Patriots,WRIGHTSON,Suellen,7,41944,NP,The Nationals,GILROY,Sue,2,2679,65.860
+NSW,126,Hunter,41778,CYA,Trumpet of Patriots,WRIGHTSON,Suellen,7,41407,ALP,Labor,REPACHOLI,Dan,8,1389,34.140
+NSW,126,Hunter,41634,GRN,The Greens,STOKES,Louise,9,41944,NP,The Nationals,GILROY,Sue,2,1414,17.060
+NSW,126,Hunter,41634,GRN,The Greens,STOKES,Louise,9,41407,ALP,Labor,REPACHOLI,Dan,8,6872,82.940
+NSW,132,Mackellar,0,,,First Preferences,,0,41830,LP,Liberal,BROWN,James,6,39647,74.600
+NSW,132,Mackellar,0,,,First Preferences,,0,41402,ALP,Labor,QUINN,Jeffrey,9,13499,25.400
+NSW,132,Mackellar,41968,IND,Independent,COTTON,Lisa,1,41830,LP,Liberal,BROWN,James,6,1519,66.130
+NSW,132,Mackellar,41968,IND,Independent,COTTON,Lisa,1,41402,ALP,Labor,QUINN,Jeffrey,9,778,33.870
+NSW,132,Mackellar,42046,ON,Pauline Hanson's One Nation,HAYMAN,Brad,2,41830,LP,Liberal,BROWN,James,6,2338,82.760
+NSW,132,Mackellar,42046,ON,Pauline Hanson's One Nation,HAYMAN,Brad,2,41402,ALP,Labor,QUINN,Jeffrey,9,487,17.240
+NSW,132,Mackellar,41629,GRN,The Greens,HRNJAK,Ethan,3,41830,LP,Liberal,BROWN,James,6,1214,17.700
+NSW,132,Mackellar,41629,GRN,The Greens,HRNJAK,Ethan,3,41402,ALP,Labor,QUINN,Jeffrey,9,5644,82.300
+NSW,132,Mackellar,41863,LTP,Libertarian,ADDISON,Justin,4,41830,LP,Liberal,BROWN,James,6,1671,85.740
+NSW,132,Mackellar,41863,LTP,Libertarian,ADDISON,Justin,4,41402,ALP,Labor,QUINN,Jeffrey,9,278,14.260
+NSW,132,Mackellar,41702,CYA,Trumpet of Patriots,ROBERTSON,Amber,5,41830,LP,Liberal,BROWN,James,6,1230,77.460
+NSW,132,Mackellar,41702,CYA,Trumpet of Patriots,ROBERTSON,Amber,5,41402,ALP,Labor,QUINN,Jeffrey,9,358,22.540
+NSW,132,Mackellar,40647,IND,Independent,SINGH,Mandeep,7,41830,LP,Liberal,BROWN,James,6,408,58.120
+NSW,132,Mackellar,40647,IND,Independent,SINGH,Mandeep,7,41402,ALP,Labor,QUINN,Jeffrey,9,294,41.880
+NSW,132,Mackellar,37450,IND,Independent,SCAMPS,Sophie,8,41830,LP,Liberal,BROWN,James,6,11987,28.220
+NSW,132,Mackellar,37450,IND,Independent,SCAMPS,Sophie,8,41402,ALP,Labor,QUINN,Jeffrey,9,30495,71.780
+NSW,136,Newcastle,0,,,First Preferences,,0,41488,LP,Liberal,McPHEE,Asarri,4,20638,29.610
+NSW,136,Newcastle,0,,,First Preferences,,0,41422,ALP,Labor,CLAYDON,Sharon,5,49054,70.390
+NSW,136,Newcastle,41695,CYA,Trumpet of Patriots,STEFANAC,Jennifer,1,41488,LP,Liberal,McPHEE,Asarri,4,2428,62.890
+NSW,136,Newcastle,41695,CYA,Trumpet of Patriots,STEFANAC,Jennifer,1,41422,ALP,Labor,CLAYDON,Sharon,5,1433,37.110
+NSW,136,Newcastle,42049,SAL,Socialist Alliance,O'BRIEN,Steve,2,41488,LP,Liberal,McPHEE,Asarri,4,347,20.950
+NSW,136,Newcastle,42049,SAL,Socialist Alliance,O'BRIEN,Steve,2,41422,ALP,Labor,CLAYDON,Sharon,5,1309,79.050
+NSW,136,Newcastle,41620,GRN,The Greens,McCABE,Charlotte,3,41488,LP,Liberal,McPHEE,Asarri,4,2304,9.580
+NSW,136,Newcastle,41620,GRN,The Greens,McCABE,Charlotte,3,41422,ALP,Labor,CLAYDON,Sharon,5,21757,90.420
+NSW,136,Newcastle,41807,FFPA,Family First,BRIGGS,Jason,6,41488,LP,Liberal,McPHEE,Asarri,4,1494,64.420
+NSW,136,Newcastle,41807,FFPA,Family First,BRIGGS,Jason,6,41422,ALP,Labor,CLAYDON,Sharon,5,825,35.580
+NSW,136,Newcastle,41993,,,CREECH,Robert,7,41488,LP,Liberal,McPHEE,Asarri,4,348,39.190
+NSW,136,Newcastle,41993,,,CREECH,Robert,7,41422,ALP,Labor,CLAYDON,Sharon,5,540,60.810
+NSW,136,Newcastle,41893,ON,Pauline Hanson's One Nation,HEYNE,Phillip,8,41488,LP,Liberal,McPHEE,Asarri,4,4063,70.180
+NSW,136,Newcastle,41893,ON,Pauline Hanson's One Nation,HEYNE,Phillip,8,41422,ALP,Labor,CLAYDON,Sharon,5,1726,29.820
+NSW,149,Sydney,0,,,First Preferences,,0,41342,ALP,Labor,PLIBERSEK,Tanya,1,59153,75.820
+NSW,149,Sydney,0,,,First Preferences,,0,41561,LP,Liberal,XU,Alex,3,18860,24.180
+NSW,149,Sydney,41984,SAL,Socialist Alliance,EVANS,Rachel,2,41342,ALP,Labor,PLIBERSEK,Tanya,1,2014,84.760
+NSW,149,Sydney,41984,SAL,Socialist Alliance,EVANS,Rachel,2,41561,LP,Liberal,XU,Alex,3,362,15.240
+NSW,149,Sydney,41910,ON,Pauline Hanson's One Nation,TORBARAC,Vedran,4,41342,ALP,Labor,PLIBERSEK,Tanya,1,930,25.150
+NSW,149,Sydney,41910,ON,Pauline Hanson's One Nation,TORBARAC,Vedran,4,41561,LP,Liberal,XU,Alex,3,2768,74.850
+NSW,149,Sydney,41638,GRN,The Greens,VELEZ,Luc,5,41342,ALP,Labor,PLIBERSEK,Tanya,1,21640,93.430
+NSW,149,Sydney,41638,GRN,The Greens,VELEZ,Luc,5,41561,LP,Liberal,XU,Alex,3,1522,6.570
+NSW,151,Warringah,0,,,First Preferences,,0,41341,ALP,Labor,VARGHESE-FELL,Celine,2,16738,31.470
+NSW,151,Warringah,0,,,First Preferences,,0,41500,LP,Liberal,ROGERS,Jaimee,7,36446,68.530
+NSW,151,Warringah,32467,IND,Independent,STEGGALL,Zali,1,41341,ALP,Labor,VARGHESE-FELL,Celine,2,35490,77.850
+NSW,151,Warringah,32467,IND,Independent,STEGGALL,Zali,1,41500,LP,Liberal,ROGERS,Jaimee,7,10100,22.150
+NSW,151,Warringah,41685,CYA,Trumpet of Patriots,ROSE,Anthony,3,41341,ALP,Labor,VARGHESE-FELL,Celine,2,398,28.090
+NSW,151,Warringah,41685,CYA,Trumpet of Patriots,ROSE,Anthony,3,41500,LP,Liberal,ROGERS,Jaimee,7,1019,71.910
+NSW,151,Warringah,40624,IND,Independent,SPRATT,David Michael,4,41341,ALP,Labor,VARGHESE-FELL,Celine,2,503,42.950
+NSW,151,Warringah,40624,IND,Independent,SPRATT,David Michael,4,41500,LP,Liberal,ROGERS,Jaimee,7,668,57.050
+NSW,151,Warringah,41842,LTP,Libertarian,McLEOD,Sean,5,41341,ALP,Labor,VARGHESE-FELL,Celine,2,257,17.090
+NSW,151,Warringah,41842,LTP,Libertarian,McLEOD,Sean,5,41500,LP,Liberal,ROGERS,Jaimee,7,1247,82.910
+NSW,151,Warringah,41941,ON,Pauline Hanson's One Nation,WRIGHT,Gavin,6,41341,ALP,Labor,VARGHESE-FELL,Celine,2,336,16.990
+NSW,151,Warringah,41941,ON,Pauline Hanson's One Nation,WRIGHT,Gavin,6,41500,LP,Liberal,ROGERS,Jaimee,7,1642,83.010
+NSW,151,Warringah,41637,GRN,The Greens,HARVEY,Bonnie,8,41341,ALP,Labor,VARGHESE-FELL,Celine,2,8912,88.670
+NSW,151,Warringah,41637,GRN,The Greens,HARVEY,Bonnie,8,41500,LP,Liberal,ROGERS,Jaimee,7,1139,11.330
+NSW,251,Watson,0,,,First Preferences,,0,41331,ALP,Labor,BURKE,Tony,1,39763,75.960
+NSW,251,Watson,0,,,First Preferences,,0,41499,LP,Liberal,ALAM,Zakir,6,12585,24.040
+NSW,251,Watson,41642,LTP,Libertarian,HADCHITI,Vanessa,2,41331,ALP,Labor,BURKE,Tony,1,1287,36.160
+NSW,251,Watson,41642,LTP,Libertarian,HADCHITI,Vanessa,2,41499,LP,Liberal,ALAM,Zakir,6,2272,63.840
+NSW,251,Watson,40898,IND,Independent,BASYOUNY,Ziad,3,41331,ALP,Labor,BURKE,Tony,1,9988,81.810
+NSW,251,Watson,40898,IND,Independent,BASYOUNY,Ziad,3,41499,LP,Liberal,ALAM,Zakir,6,2221,18.190
+NSW,251,Watson,41976,IND,Independent,KHAN,Zain,4,41331,ALP,Labor,BURKE,Tony,1,595,56.400
+NSW,251,Watson,41976,IND,Independent,KHAN,Zain,4,41499,LP,Liberal,ALAM,Zakir,6,460,43.600
+NSW,251,Watson,41920,ON,Pauline Hanson's One Nation,TREVENA,Elisha,5,41331,ALP,Labor,BURKE,Tony,1,835,31.230
+NSW,251,Watson,41920,ON,Pauline Hanson's One Nation,TREVENA,Elisha,5,41499,LP,Liberal,ALAM,Zakir,6,1839,68.770
+NSW,251,Watson,41847,FFPA,Family First,MANNAH,John,7,41331,ALP,Labor,BURKE,Tony,1,567,39.710
+NSW,251,Watson,41847,FFPA,Family First,MANNAH,John,7,41499,LP,Liberal,ALAM,Zakir,6,861,60.290
+NSW,251,Watson,41645,GRN,The Greens,BREWER,Jocelyn,8,41331,ALP,Labor,BURKE,Tony,1,6396,86.440
+NSW,251,Watson,41645,GRN,The Greens,BREWER,Jocelyn,8,41499,LP,Liberal,ALAM,Zakir,6,1003,13.560
+NSW,251,Watson,41680,CYA,Trumpet of Patriots,KOUKOULIS,John,9,41331,ALP,Labor,BURKE,Tony,1,921,42.600
+NSW,251,Watson,41680,CYA,Trumpet of Patriots,KOUKOULIS,John,9,41499,LP,Liberal,ALAM,Zakir,6,1241,57.400
+NSW,152,Wentworth,0,,,First Preferences,,0,41497,LP,Liberal,KNOX,Ro,4,40155,73.100
+NSW,152,Wentworth,0,,,First Preferences,,0,41326,ALP,Labor,PEAKE,Savanna,5,14779,26.900
+NSW,152,Wentworth,41967,IND,Independent,RICHMOND,Michael,1,41497,LP,Liberal,KNOX,Ro,4,803,59.610
+NSW,152,Wentworth,41967,IND,Independent,RICHMOND,Michael,1,41326,ALP,Labor,PEAKE,Savanna,5,544,40.390
+NSW,152,Wentworth,41532,GRN,The Greens,WARD,Nick,2,41497,LP,Liberal,KNOX,Ro,4,931,8.280
+NSW,152,Wentworth,41532,GRN,The Greens,WARD,Nick,2,41326,ALP,Labor,PEAKE,Savanna,5,10310,91.720
+NSW,152,Wentworth,41912,ON,Pauline Hanson's One Nation,STERNHELL,James,3,41497,LP,Liberal,KNOX,Ro,4,2208,84.110
+NSW,152,Wentworth,41912,ON,Pauline Hanson's One Nation,STERNHELL,James,3,41326,ALP,Labor,PEAKE,Savanna,5,417,15.890
+NSW,152,Wentworth,37451,IND,Independent,SPENDER,Allegra,6,41497,LP,Liberal,KNOX,Ro,4,10505,26.080
+NSW,152,Wentworth,37451,IND,Independent,SPENDER,Allegra,6,41326,ALP,Labor,PEAKE,Savanna,5,29779,73.920
+QLD,163,Griffith,0,,,First Preferences,,0,40739,ALP,Australian Labor Party,COFFEY,Renee,3,37686,56.490
+QLD,163,Griffith,0,,,First Preferences,,0,41167,LNP,LNP,BISHOP,Anthony,6,29025,43.510
+QLD,163,Griffith,41238,GRN,The Greens,CHANDLER-MATHER,Max,1,40739,ALP,Australian Labor Party,COFFEY,Renee,3,32083,92.810
+QLD,163,Griffith,41238,GRN,The Greens,CHANDLER-MATHER,Max,1,41167,LNP,LNP,BISHOP,Anthony,6,2487,7.190
+QLD,163,Griffith,40940,ON,Pauline Hanson's One Nation,BELL,Lindsay,2,40739,ALP,Australian Labor Party,COFFEY,Renee,3,684,25.480
+QLD,163,Griffith,40940,ON,Pauline Hanson's One Nation,BELL,Lindsay,2,41167,LNP,LNP,BISHOP,Anthony,6,2000,74.520
+QLD,163,Griffith,40969,GRPF,Gerard Rennick People First,HUNT,Dion,4,40739,ALP,Australian Labor Party,COFFEY,Renee,3,660,26.110
+QLD,163,Griffith,40969,GRPF,Gerard Rennick People First,HUNT,Dion,4,41167,LNP,LNP,BISHOP,Anthony,6,1868,73.890
+QLD,163,Griffith,41038,FFPA,Family First,CAMPBELL,Andrea,5,40739,ALP,Australian Labor Party,COFFEY,Renee,3,383,36.130
+QLD,163,Griffith,41038,FFPA,Family First,CAMPBELL,Andrea,5,41167,LNP,LNP,BISHOP,Anthony,6,677,63.870
+QLD,163,Griffith,41346,CYA,Trumpet of Patriots,HAYES,Aaron,7,40739,ALP,Australian Labor Party,COFFEY,Renee,3,519,31.280
+QLD,163,Griffith,41346,CYA,Trumpet of Patriots,HAYES,Aaron,7,41167,LNP,LNP,BISHOP,Anthony,6,1140,68.720
+QLD,164,Groom,0,,,First Preferences,,0,41173,LNP,LNP,HAMILTON,Garth,5,42302,71.130
+QLD,164,Groom,0,,,First Preferences,,0,40741,ALP,Australian Labor Party,EDWARDS,Richard,8,17172,28.870
+QLD,164,Groom,36178,IND,Independent,HOLT,Suzie,1,41173,LNP,LNP,HAMILTON,Garth,5,7060,39.900
+QLD,164,Groom,36178,IND,Independent,HOLT,Suzie,1,40741,ALP,Australian Labor Party,EDWARDS,Richard,8,10634,60.100
+QLD,164,Groom,40942,ON,Pauline Hanson's One Nation,KONZ,Rebecca,2,41173,LNP,LNP,HAMILTON,Garth,5,8055,81.690
+QLD,164,Groom,40942,ON,Pauline Hanson's One Nation,KONZ,Rebecca,2,40741,ALP,Australian Labor Party,EDWARDS,Richard,8,1805,18.310
+QLD,164,Groom,40896,FFPA,Family First,TODD,Alexandra,3,41173,LNP,LNP,HAMILTON,Garth,5,3224,82.790
+QLD,164,Groom,40896,FFPA,Family First,TODD,Alexandra,3,40741,ALP,Australian Labor Party,EDWARDS,Richard,8,670,17.210
+QLD,164,Groom,41242,GRN,The Greens,NELLIGAN,Alyce,4,41173,LNP,LNP,HAMILTON,Garth,5,1115,19.370
+QLD,164,Groom,41242,GRN,The Greens,NELLIGAN,Alyce,4,40741,ALP,Australian Labor Party,EDWARDS,Richard,8,4642,80.630
+QLD,164,Groom,37615,IND,Independent,SMOLENSKI,Kirstie,6,41173,LNP,LNP,HAMILTON,Garth,5,1667,45.040
+QLD,164,Groom,37615,IND,Independent,SMOLENSKI,Kirstie,6,40741,ALP,Australian Labor Party,EDWARDS,Richard,8,2034,54.960
+QLD,164,Groom,41349,CYA,Trumpet of Patriots,MARR,Jamie,7,41173,LNP,LNP,HAMILTON,Garth,5,1967,69.280
+QLD,164,Groom,41349,CYA,Trumpet of Patriots,MARR,Jamie,7,40741,ALP,Australian Labor Party,EDWARDS,Richard,8,872,30.720
+QLD,167,Kennedy,0,,,First Preferences,,0,41184,LNP,LNP,SWAINE,Annette,1,23135,59.240
+QLD,167,Kennedy,0,,,First Preferences,,0,40760,ALP,Australian Labor Party,WINN,Sharon,6,15917,40.760
+QLD,167,Kennedy,40636,IND,Independent,CLARE,Steven,2,41184,LNP,LNP,SWAINE,Annette,1,762,46.890
+QLD,167,Kennedy,40636,IND,Independent,CLARE,Steven,2,40760,ALP,Australian Labor Party,WINN,Sharon,6,863,53.110
+QLD,167,Kennedy,41255,GRN,The Greens,STANFORD,Carole,3,41184,LNP,LNP,SWAINE,Annette,1,1020,17.710
+QLD,167,Kennedy,41255,GRN,The Greens,STANFORD,Carole,3,40760,ALP,Australian Labor Party,WINN,Sharon,6,4741,82.290
+QLD,167,Kennedy,40899,FFPA,Family First,LUSH,Douglas,4,41184,LNP,LNP,SWAINE,Annette,1,1081,64.310
+QLD,167,Kennedy,40899,FFPA,Family First,LUSH,Douglas,4,40760,ALP,Australian Labor Party,WINN,Sharon,6,600,35.690
+QLD,167,Kennedy,40950,ON,Pauline Hanson's One Nation,HARRIS,Kate,5,41184,LNP,LNP,SWAINE,Annette,1,5834,77.360
+QLD,167,Kennedy,40950,ON,Pauline Hanson's One Nation,HARRIS,Kate,5,40760,ALP,Australian Labor Party,WINN,Sharon,6,1707,22.640
+QLD,167,Kennedy,41364,CYA,Trumpet of Patriots,WESTCOTT,Mark,7,41184,LNP,LNP,SWAINE,Annette,1,1524,66.750
+QLD,167,Kennedy,41364,CYA,Trumpet of Patriots,WESTCOTT,Mark,7,40760,ALP,Australian Labor Party,WINN,Sharon,6,759,33.250
+QLD,167,Kennedy,40650,KAP,Katter's Australian Party (KAP),KATTER,Bob,8,41184,LNP,LNP,SWAINE,Annette,1,24285,61.920
+QLD,167,Kennedy,40650,KAP,Katter's Australian Party (KAP),KATTER,Bob,8,40760,ALP,Australian Labor Party,WINN,Sharon,6,14934,38.080
+QLD,170,Maranoa,0,,,First Preferences,,0,41162,LNP,LNP,LITTLEPROUD,David,2,51947,76.820
+QLD,170,Maranoa,0,,,First Preferences,,0,40787,ALP,Australian Labor Party,NEWMAN,Alex,6,15675,23.180
+QLD,170,Maranoa,40975,GRPF,Gerard Rennick People First,DRAPER,Rod,1,41162,LNP,LNP,LITTLEPROUD,David,2,4506,81.160
+QLD,170,Maranoa,40975,GRPF,Gerard Rennick People First,DRAPER,Rod,1,40787,ALP,Australian Labor Party,NEWMAN,Alex,6,1046,18.840
+QLD,170,Maranoa,41274,GRN,The Greens,JOHNSTON,Elizabeth,3,41162,LNP,LNP,LITTLEPROUD,David,2,1199,23.830
+QLD,170,Maranoa,41274,GRN,The Greens,JOHNSTON,Elizabeth,3,40787,ALP,Australian Labor Party,NEWMAN,Alex,6,3833,76.170
+QLD,170,Maranoa,40690,LTP,Libertarian,OFFERDAHL,Michael,4,41162,LNP,LNP,LITTLEPROUD,David,2,1392,73.380
+QLD,170,Maranoa,40690,LTP,Libertarian,OFFERDAHL,Michael,4,40787,ALP,Australian Labor Party,NEWMAN,Alex,6,505,26.620
+QLD,170,Maranoa,40912,FFPA,Family First,WHITTLE,John Matthew,5,41162,LNP,LNP,LITTLEPROUD,David,2,2011,71.770
+QLD,170,Maranoa,40912,FFPA,Family First,WHITTLE,John Matthew,5,40787,ALP,Australian Labor Party,NEWMAN,Alex,6,791,28.230
+QLD,170,Maranoa,41351,CYA,Trumpet of Patriots,CUMES,Jonathan Allen,7,41162,LNP,LNP,LITTLEPROUD,David,2,1912,69.180
+QLD,170,Maranoa,41351,CYA,Trumpet of Patriots,CUMES,Jonathan Allen,7,40787,ALP,Australian Labor Party,NEWMAN,Alex,6,852,30.820
+QLD,170,Maranoa,41037,ON,Pauline Hanson's One Nation,DUNCAN,Sharon,8,41162,LNP,LNP,LITTLEPROUD,David,2,9286,77.270
+QLD,170,Maranoa,41037,ON,Pauline Hanson's One Nation,DUNCAN,Sharon,8,40787,ALP,Australian Labor Party,NEWMAN,Alex,6,2732,22.730
+QLD,177,Ryan,0,,,First Preferences,,0,40807,ALP,Australian Labor Party,HACK,Rebecca,2,29217,44.930
+QLD,177,Ryan,0,,,First Preferences,,0,41192,LNP,LNP,FORREST,Maggie,5,35806,55.070
+QLD,177,Ryan,40905,FFPA,Family First,GALLEHAWK,Donna,1,40807,ALP,Australian Labor Party,HACK,Rebecca,2,531,39.630
+QLD,177,Ryan,40905,FFPA,Family First,GALLEHAWK,Donna,1,41192,LNP,LNP,FORREST,Maggie,5,809,60.370
+QLD,177,Ryan,40687,SOPA,FUSION | Planet Rescue | Whistleblower Protection | Innovation,MASTERTON,Gina,3,40807,ALP,Australian Labor Party,HACK,Rebecca,2,767,76.170
+QLD,177,Ryan,40687,SOPA,FUSION | Planet Rescue | Whistleblower Protection | Innovation,MASTERTON,Gina,3,41192,LNP,LNP,FORREST,Maggie,5,240,23.830
+QLD,177,Ryan,41285,GRN,The Greens,WATSON-BROWN,Elizabeth,4,40807,ALP,Australian Labor Party,HACK,Rebecca,2,27823,92.790
+QLD,177,Ryan,41285,GRN,The Greens,WATSON-BROWN,Elizabeth,4,41192,LNP,LNP,FORREST,Maggie,5,2163,7.210
+QLD,177,Ryan,40974,GRPF,Gerard Rennick People First,DE LAPP,N,6,40807,ALP,Australian Labor Party,HACK,Rebecca,2,510,21.190
+QLD,177,Ryan,40974,GRPF,Gerard Rennick People First,DE LAPP,N,6,41192,LNP,LNP,FORREST,Maggie,5,1897,78.810
+QLD,177,Ryan,41415,CYA,Trumpet of Patriots,HUNT,Ryan,7,40807,ALP,Australian Labor Party,HACK,Rebecca,2,442,32.220
+QLD,177,Ryan,41415,CYA,Trumpet of Patriots,HUNT,Ryan,7,41192,LNP,LNP,FORREST,Maggie,5,930,67.780
+QLD,177,Ryan,40960,ON,Pauline Hanson's One Nation,ELSOM,Robbie,8,40807,ALP,Australian Labor Party,HACK,Rebecca,2,532,22.860
+QLD,177,Ryan,40960,ON,Pauline Hanson's One Nation,ELSOM,Robbie,8,41192,LNP,LNP,FORREST,Maggie,5,1795,77.140
+SA,188,Mayo,0,,,First Preferences,,0,41035,LP,Liberal,BASIC,Zane,1,29551,52.520
+SA,188,Mayo,0,,,First Preferences,,0,41186,ALP,Australian Labor Party,BELL,Marisa,5,26718,47.480
+SA,188,Mayo,40653,XEN,Centre Alliance,SHARKIE,Rebekha,2,41035,LP,Liberal,BASIC,Zane,1,14729,39.330
+SA,188,Mayo,40653,XEN,Centre Alliance,SHARKIE,Rebekha,2,41186,ALP,Australian Labor Party,BELL,Marisa,5,22724,60.670
+SA,188,Mayo,41029,GRN,The Greens,DAWSON-SCOTT,Genevieve,3,41035,LP,Liberal,BASIC,Zane,1,1841,10.800
+SA,188,Mayo,41029,GRN,The Greens,DAWSON-SCOTT,Genevieve,3,41186,ALP,Australian Labor Party,BELL,Marisa,5,15207,89.200
+SA,188,Mayo,41058,FFPA,Family First,HACKETT,Ben,4,41035,LP,Liberal,BASIC,Zane,1,2415,71.090
+SA,188,Mayo,41058,FFPA,Family First,HACKETT,Ben,4,41186,ALP,Australian Labor Party,BELL,Marisa,5,982,28.910
+SA,188,Mayo,42045,ON,Pauline Hanson's One Nation,HEWETT,Rebecca,6,41035,LP,Liberal,BASIC,Zane,1,5603,74.780
+SA,188,Mayo,42045,ON,Pauline Hanson's One Nation,HEWETT,Rebecca,6,41186,ALP,Australian Labor Party,BELL,Marisa,5,1890,25.220
+SA,188,Mayo,41049,CYA,Trumpet of Patriots,BIDWELL,Simeon Trump,7,41035,LP,Liberal,BASIC,Zane,1,2223,63.120
+SA,188,Mayo,41049,CYA,Trumpet of Patriots,BIDWELL,Simeon Trump,7,41186,ALP,Australian Labor Party,BELL,Marisa,5,1299,36.880
+TAS,319,Clark,0,,,First Preferences,,0,40766,LP,Liberal,DI FLORIO,Marilena,3,9239,40.560
+TAS,319,Clark,0,,,First Preferences,,0,41524,ALP,Australian Labor Party,HECK,Heidi,4,13539,59.440
+TAS,319,Clark,33553,IND,Independent,WILKIE,Andrew,1,40766,LP,Liberal,DI FLORIO,Marilena,3,7631,23.120
+TAS,319,Clark,33553,IND,Independent,WILKIE,Andrew,1,41524,ALP,Australian Labor Party,HECK,Heidi,4,25380,76.880
+TAS,319,Clark,41157,GRN,The Greens,SHELLEY,Janet,2,40766,LP,Liberal,DI FLORIO,Marilena,3,902,10.130
+TAS,319,Clark,41157,GRN,The Greens,SHELLEY,Janet,2,41524,ALP,Australian Labor Party,HECK,Heidi,4,8006,89.870
+TAS,319,Clark,42055,ON,Pauline Hanson's One Nation,GRIGGS,Cathy,5,40766,LP,Liberal,DI FLORIO,Marilena,3,1888,66.620
+TAS,319,Clark,42055,ON,Pauline Hanson's One Nation,GRIGGS,Cathy,5,41524,ALP,Australian Labor Party,HECK,Heidi,4,946,33.380
+TAS,195,Franklin,0,,,First Preferences,,0,40776,LP,Liberal,GARVIN,Josh,1,14403,32.550
+TAS,195,Franklin,0,,,First Preferences,,0,41533,ALP,Australian Labor Party,COLLINS,Julie,6,29842,67.450
+TAS,195,Franklin,40655,IND,Independent,GEORGE,Peter,2,40776,LP,Liberal,GARVIN,Josh,1,3498,21.090
+TAS,195,Franklin,40655,IND,Independent,GEORGE,Peter,2,41533,ALP,Australian Labor Party,COLLINS,Julie,6,13088,78.910
+TAS,195,Franklin,40733,IND,Independent,BLOMELEY,Brendan,3,40776,LP,Liberal,GARVIN,Josh,1,2028,53.060
+TAS,195,Franklin,40733,IND,Independent,BLOMELEY,Brendan,3,41533,ALP,Australian Labor Party,COLLINS,Julie,6,1794,46.940
+TAS,195,Franklin,42053,ON,Pauline Hanson's One Nation,POPESCU,Stefan,4,40776,LP,Liberal,GARVIN,Josh,1,2679,70.630
+TAS,195,Franklin,42053,ON,Pauline Hanson's One Nation,POPESCU,Stefan,4,41533,ALP,Australian Labor Party,COLLINS,Julie,6,1114,29.370
+TAS,195,Franklin,41159,GRN,The Greens,FITZGERALD,Owen,5,40776,LP,Liberal,GARVIN,Josh,1,758,9.460
+TAS,195,Franklin,41159,GRN,The Greens,FITZGERALD,Owen,5,41533,ALP,Australian Labor Party,COLLINS,Julie,6,7258,90.540
+VIC,203,Calwell,0,,,First Preferences,,0,40860,ALP,Australian Labor Party,ABDO,Basem,9,27423,66.040
+VIC,203,Calwell,0,,,First Preferences,,0,40752,LP,Liberal,GHANI,Usman,13,14102,33.960
+VIC,203,Calwell,40630,IND,Independent,MOORE,Carly,1,40860,ALP,Australian Labor Party,ABDO,Basem,9,6197,57.730
+VIC,203,Calwell,40630,IND,Independent,MOORE,Carly,1,40752,LP,Liberal,GHANI,Usman,13,4538,42.270
+VIC,203,Calwell,41604,FFPA,Family First,BENGTSSON,Maria,2,40860,ALP,Australian Labor Party,ABDO,Basem,9,1194,51.730
+VIC,203,Calwell,41604,FFPA,Family First,BENGTSSON,Maria,2,40752,LP,Liberal,GHANI,Usman,13,1114,48.270
+VIC,203,Calwell,41232,HMP,Legalise Cannabis Party,DEL ROSARIO-MAKRIDIS,Gianni,3,40860,ALP,Australian Labor Party,ABDO,Basem,9,2082,73.230
+VIC,203,Calwell,41232,HMP,Legalise Cannabis Party,DEL ROSARIO-MAKRIDIS,Gianni,3,40752,LP,Liberal,GHANI,Usman,13,761,26.770
+VIC,203,Calwell,42008,IND,Independent,MOSLIH,Samim,4,40860,ALP,Australian Labor Party,ABDO,Basem,9,5545,90.090
+VIC,203,Calwell,42008,IND,Independent,MOSLIH,Samim,4,40752,LP,Liberal,GHANI,Usman,13,610,9.910
+VIC,203,Calwell,41525,ON,Pauline Hanson's One Nation,TOMA,Luay,5,40860,ALP,Australian Labor Party,ABDO,Basem,9,1302,38.580
+VIC,203,Calwell,41525,ON,Pauline Hanson's One Nation,TOMA,Luay,5,40752,LP,Liberal,GHANI,Usman,13,2073,61.420
+VIC,203,Calwell,40654,IND,Independent,YOUHANA,Joseph,6,40860,ALP,Australian Labor Party,ABDO,Basem,9,4379,45.480
+VIC,203,Calwell,40654,IND,Independent,YOUHANA,Joseph,6,40752,LP,Liberal,GHANI,Usman,13,5249,54.520
+VIC,203,Calwell,41084,GVIC,The Greens,GARCHA,Ravneet Kaur,7,40860,ALP,Australian Labor Party,ABDO,Basem,9,6453,86.750
+VIC,203,Calwell,41084,GVIC,The Greens,GARCHA,Ravneet Kaur,7,40752,LP,Liberal,GHANI,Usman,13,986,13.250
+VIC,203,Calwell,41362,CYA,Trumpet of Patriots,ISSA,Assaad,8,40860,ALP,Australian Labor Party,ABDO,Basem,9,1026,46.400
+VIC,203,Calwell,41362,CYA,Trumpet of Patriots,ISSA,Assaad,8,40752,LP,Liberal,GHANI,Usman,13,1185,53.600
+VIC,203,Calwell,41196,,,PEACH,Morgan,10,40860,ALP,Australian Labor Party,ABDO,Basem,9,317,65.090
+VIC,203,Calwell,41196,,,PEACH,Morgan,10,40752,LP,Liberal,GHANI,Usman,13,170,34.910
+VIC,203,Calwell,40700,CEC,Citizens Party,HAWLI,Bassima,11,40860,ALP,Australian Labor Party,ABDO,Basem,9,1936,73.780
+VIC,203,Calwell,40700,CEC,Citizens Party,HAWLI,Bassima,11,40752,LP,Liberal,GHANI,Usman,13,688,26.220
+VIC,203,Calwell,41940,IND,Independent,RAGUPATHY,Ravi,12,40860,ALP,Australian Labor Party,ABDO,Basem,9,273,54.490
+VIC,203,Calwell,41940,IND,Independent,RAGUPATHY,Ravi,12,40752,LP,Liberal,GHANI,Usman,13,228,45.510
+VIC,320,Cooper,0,,,First Preferences,,0,40856,ALP,Australian Labor Party,KEARNEY,Ged,2,45151,73.500
+VIC,320,Cooper,0,,,First Preferences,,0,40767,LP,Liberal,TODHUNTER,Stewart,4,16280,26.500
+VIC,320,Cooper,41564,ON,Pauline Hanson's One Nation,TURNER,William,1,40856,ALP,Australian Labor Party,KEARNEY,Ged,2,1735,30.520
+VIC,320,Cooper,41564,ON,Pauline Hanson's One Nation,TURNER,William,1,40767,LP,Liberal,TODHUNTER,Stewart,4,3949,69.480
+VIC,320,Cooper,41089,GVIC,The Greens,BURNETT,Tara,3,40856,ALP,Australian Labor Party,KEARNEY,Ged,2,25966,95.730
+VIC,320,Cooper,41089,GVIC,The Greens,BURNETT,Tara,3,40767,LP,Liberal,TODHUNTER,Stewart,4,1157,4.270
+VIC,320,Cooper,41002,VNS,Victorian Socialists,LARKIN,Kath,5,40856,ALP,Australian Labor Party,KEARNEY,Ged,2,8504,94.360
+VIC,320,Cooper,41002,VNS,Victorian Socialists,LARKIN,Kath,5,40767,LP,Liberal,TODHUNTER,Stewart,4,508,5.640
+VIC,320,Cooper,41206,HMP,Legalise Cannabis Party,STOLZENBERG,Donna,6,40856,ALP,Australian Labor Party,KEARNEY,Ged,2,3133,72.260
+VIC,320,Cooper,41206,HMP,Legalise Cannabis Party,STOLZENBERG,Donna,6,40767,LP,Liberal,TODHUNTER,Stewart,4,1203,27.740
+VIC,211,Flinders,0,,,First Preferences,,0,40748,LP,Liberal,McKENZIE,Zoe,3,47375,64.900
+VIC,211,Flinders,0,,,First Preferences,,0,40853,ALP,Australian Labor Party,RACE,Sarah,6,25622,35.100
+VIC,211,Flinders,41371,CYA,Trumpet of Patriots,SMART,Jason,1,40748,LP,Liberal,McKENZIE,Zoe,3,2316,73.660
+VIC,211,Flinders,41371,CYA,Trumpet of Patriots,SMART,Jason,1,40853,ALP,Australian Labor Party,RACE,Sarah,6,828,26.340
+VIC,211,Flinders,40838,IND,Independent,SMITH,Ben,2,40748,LP,Liberal,McKENZIE,Zoe,3,6930,28.390
+VIC,211,Flinders,40838,IND,Independent,SMITH,Ben,2,40853,ALP,Australian Labor Party,RACE,Sarah,6,17476,71.610
+VIC,211,Flinders,41509,ON,Pauline Hanson's One Nation,BROWN,Mike,4,40748,LP,Liberal,McKENZIE,Zoe,3,5012,82.290
+VIC,211,Flinders,41509,ON,Pauline Hanson's One Nation,BROWN,Mike,4,40853,ALP,Australian Labor Party,RACE,Sarah,6,1079,17.710
+VIC,211,Flinders,40892,IND,Independent,TOSCANO,Joseph,5,40748,LP,Liberal,McKENZIE,Zoe,3,419,42.760
+VIC,211,Flinders,40892,IND,Independent,TOSCANO,Joseph,5,40853,ALP,Australian Labor Party,RACE,Sarah,6,561,57.240
+VIC,211,Flinders,41131,GVIC,The Greens,FROGLEY,Adam,7,40748,LP,Liberal,McKENZIE,Zoe,3,905,12.390
+VIC,211,Flinders,41131,GVIC,The Greens,FROGLEY,Adam,7,40853,ALP,Australian Labor Party,RACE,Sarah,6,6400,87.610
+VIC,321,Fraser,0,,,First Preferences,,0,40783,LP,Liberal,PATEL,Satish,4,18125,28.360
+VIC,321,Fraser,0,,,First Preferences,,0,40859,ALP,Australian Labor Party,MULINO,Daniel,6,45786,71.640
+VIC,321,Fraser,41562,FFPA,Family First,RANCIE,Rob,1,40783,LP,Liberal,PATEL,Satish,4,3022,66.490
+VIC,321,Fraser,41562,FFPA,Family First,RANCIE,Rob,1,40859,ALP,Australian Labor Party,MULINO,Daniel,6,1523,33.510
+VIC,321,Fraser,41133,GVIC,The Greens,TRUONG,Huong,2,40783,LP,Liberal,PATEL,Satish,4,4460,16.410
+VIC,321,Fraser,41133,GVIC,The Greens,TRUONG,Huong,2,40859,ALP,Australian Labor Party,MULINO,Daniel,6,22711,83.590
+VIC,321,Fraser,41517,ON,Pauline Hanson's One Nation,ROZARIO,George,3,40783,LP,Liberal,PATEL,Satish,4,3498,68.120
+VIC,321,Fraser,41517,ON,Pauline Hanson's One Nation,ROZARIO,George,3,40859,ALP,Australian Labor Party,MULINO,Daniel,6,1637,31.880
+VIC,321,Fraser,41004,VNS,Victorian Socialists,DUFF,Jasmine,5,40783,LP,Liberal,PATEL,Satish,4,961,14.330
+VIC,321,Fraser,41004,VNS,Victorian Socialists,DUFF,Jasmine,5,40859,ALP,Australian Labor Party,MULINO,Daniel,6,5744,85.670
+VIC,214,Goldstein,0,,,First Preferences,,0,40813,ALP,Australian Labor Party,GADANI,Nildhara,2,15812,23.940
+VIC,214,Goldstein,0,,,First Preferences,,0,40747,LP,Liberal,WILSON,Tim,7,50228,76.060
+VIC,214,Goldstein,41372,CYA,Trumpet of Patriots,WILLIAMS,Vicki Jane,1,40813,ALP,Australian Labor Party,GADANI,Nildhara,2,690,33.400
+VIC,214,Goldstein,41372,CYA,Trumpet of Patriots,WILLIAMS,Vicki Jane,1,40747,LP,Liberal,WILSON,Tim,7,1376,66.600
+VIC,214,Goldstein,41309,LTP,Libertarian,SEGAL,David,3,40813,ALP,Australian Labor Party,GADANI,Nildhara,2,300,17.890
+VIC,214,Goldstein,41309,LTP,Libertarian,SEGAL,David,3,40747,LP,Liberal,WILSON,Tim,7,1377,82.110
+VIC,214,Goldstein,41112,GVIC,The Greens,GALLI-McROSTIE,Alana,4,40813,ALP,Australian Labor Party,GADANI,Nildhara,2,7382,88.730
+VIC,214,Goldstein,41112,GVIC,The Greens,GALLI-McROSTIE,Alana,4,40747,LP,Liberal,WILSON,Tim,7,938,11.270
+VIC,214,Goldstein,41925,ON,Pauline Hanson's One Nation,GARDINER,Leon,5,40813,ALP,Australian Labor Party,GADANI,Nildhara,2,410,20.130
+VIC,214,Goldstein,41925,ON,Pauline Hanson's One Nation,GARDINER,Leon,5,40747,LP,Liberal,WILSON,Tim,7,1627,79.870
+VIC,214,Goldstein,36074,IND,Independent,DANIEL,Zoe,6,40813,ALP,Australian Labor Party,GADANI,Nildhara,2,28652,80.630
+VIC,214,Goldstein,36074,IND,Independent,DANIEL,Zoe,6,40747,LP,Liberal,WILSON,Tim,7,6881,19.370
+VIC,218,Indi,0,,,First Preferences,,0,40842,ALP,Australian Labor Party,BRIDGES,Mitch,2,8824,21.370
+VIC,218,Indi,0,,,First Preferences,,0,40750,LP,Liberal,TRENERY,James,3,32475,78.630
+VIC,218,Indi,32086,IND,Independent,HAINES,Helen,1,40842,ALP,Australian Labor Party,BRIDGES,Mitch,2,29864,66.780
+VIC,218,Indi,32086,IND,Independent,HAINES,Helen,1,40750,LP,Liberal,TRENERY,James,3,14859,33.220
+VIC,218,Indi,41626,ON,Pauline Hanson's One Nation,THOMAS,Athol,4,40842,ALP,Australian Labor Party,BRIDGES,Mitch,2,1357,17.830
+VIC,218,Indi,41626,ON,Pauline Hanson's One Nation,THOMAS,Athol,4,40750,LP,Liberal,TRENERY,James,3,6254,82.170
+VIC,218,Indi,41125,GVIC,The Greens,REGAN,Alysia,5,40842,ALP,Australian Labor Party,BRIDGES,Mitch,2,3078,80.180
+VIC,218,Indi,41125,GVIC,The Greens,REGAN,Alysia,5,40750,LP,Liberal,TRENERY,James,3,761,19.820
+VIC,218,Indi,41314,LTP,Libertarian,QUILTY,Tim,6,40842,ALP,Australian Labor Party,BRIDGES,Mitch,2,249,14.600
+VIC,218,Indi,41314,LTP,Libertarian,QUILTY,Tim,6,40750,LP,Liberal,TRENERY,James,3,1456,85.400
+VIC,218,Indi,41573,FFPA,Family First,WHITE,Michael,7,40842,ALP,Australian Labor Party,BRIDGES,Mitch,2,438,23.040
+VIC,218,Indi,41573,FFPA,Family First,WHITE,Michael,7,40750,LP,Liberal,TRENERY,James,3,1463,76.960
+VIC,218,Indi,41929,HMP,Legalise Cannabis Party,HOWMAN,Ben,8,40842,ALP,Australian Labor Party,BRIDGES,Mitch,2,1565,49.480
+VIC,218,Indi,41929,HMP,Legalise Cannabis Party,HOWMAN,Ben,8,40750,LP,Liberal,TRENERY,James,3,1598,50.520
+VIC,218,Indi,40628,IND,Independent,McFARLANE,Mark,9,40842,ALP,Australian Labor Party,BRIDGES,Mitch,2,461,30.330
+VIC,218,Indi,40628,IND,Independent,McFARLANE,Mark,9,40750,LP,Liberal,TRENERY,James,3,1059,69.670
+VIC,221,Kooyong,0,,,First Preferences,,0,40763,LP,Liberal,HAMER,Amelia,2,49542,78.370
+VIC,221,Kooyong,0,,,First Preferences,,0,40827,ALP,Australian Labor Party,CROSBY,Clive,7,13671,21.630
+VIC,221,Kooyong,41311,LTP,Libertarian,PEPPARD,Richard,1,40763,LP,Liberal,HAMER,Amelia,2,1214,82.310
+VIC,221,Kooyong,41311,LTP,Libertarian,PEPPARD,Richard,1,40827,ALP,Australian Labor Party,CROSBY,Clive,7,261,17.690
+VIC,221,Kooyong,41098,GVIC,The Greens,CARTER,Jackie,3,40763,LP,Liberal,HAMER,Amelia,2,1064,11.960
+VIC,221,Kooyong,41098,GVIC,The Greens,CARTER,Jackie,3,40827,ALP,Australian Labor Party,CROSBY,Clive,7,7836,88.040
+VIC,221,Kooyong,41611,ON,Pauline Hanson's One Nation,BRACHE,Camille,4,40763,LP,Liberal,HAMER,Amelia,2,999,83.180
+VIC,221,Kooyong,41611,ON,Pauline Hanson's One Nation,BRACHE,Camille,4,40827,ALP,Australian Labor Party,CROSBY,Clive,7,202,16.820
+VIC,221,Kooyong,41384,CYA,Trumpet of Patriots,VADER,David,5,40763,LP,Liberal,HAMER,Amelia,2,848,75.440
+VIC,221,Kooyong,41384,CYA,Trumpet of Patriots,VADER,David,5,40827,ALP,Australian Labor Party,CROSBY,Clive,7,276,24.560
+VIC,221,Kooyong,36081,IND,Independent,RYAN,Monique,6,40763,LP,Liberal,HAMER,Amelia,2,6492,16.670
+VIC,221,Kooyong,36081,IND,Independent,RYAN,Monique,6,40827,ALP,Australian Labor Party,CROSBY,Clive,7,32463,83.330
+VIC,228,Melbourne,0,,,First Preferences,,0,40817,ALP,Australian Labor Party,WITTY,Sarah,2,30541,61.320
+VIC,228,Melbourne,0,,,First Preferences,,0,40765,LP,Liberal,HUNT,Steph,7,19267,38.680
+VIC,228,Melbourne,41607,ON,Pauline Hanson's One Nation,CASEY,Melanie,1,40817,ALP,Australian Labor Party,WITTY,Sarah,2,773,31.710
+VIC,228,Melbourne,41607,ON,Pauline Hanson's One Nation,CASEY,Melanie,1,40765,LP,Liberal,HUNT,Steph,7,1665,68.290
+VIC,228,Melbourne,42101,IND,Independent,SMITH,Tim,3,40817,ALP,Australian Labor Party,WITTY,Sarah,2,920,56.970
+VIC,228,Melbourne,42101,IND,Independent,SMITH,Tim,3,40765,LP,Liberal,HUNT,Steph,7,695,43.030
+VIC,228,Melbourne,42099,IND,Independent,KOUTOUFIDES,Anthony,4,40817,ALP,Australian Labor Party,WITTY,Sarah,2,1670,52.120
+VIC,228,Melbourne,42099,IND,Independent,KOUTOUFIDES,Anthony,4,40765,LP,Liberal,HUNT,Steph,7,1534,47.880
+VIC,228,Melbourne,41119,GVIC,The Greens,BANDT,Adam,5,40817,ALP,Australian Labor Party,WITTY,Sarah,2,36650,95.300
+VIC,228,Melbourne,41119,GVIC,The Greens,BANDT,Adam,5,40765,LP,Liberal,HUNT,Steph,7,1807,4.700
+VIC,228,Melbourne,41381,SOPA,FUSION | Planet Rescue | Whistleblower Protection | Innovation,HUANG,Helen,6,40817,ALP,Australian Labor Party,WITTY,Sarah,2,1529,79.390
+VIC,228,Melbourne,41381,SOPA,FUSION | Planet Rescue | Whistleblower Protection | Innovation,HUANG,Helen,6,40765,LP,Liberal,HUNT,Steph,7,397,20.610
+VIC,233,Wannon,0,,,First Preferences,,0,40770,LP,Liberal,TEHAN,Dan,7,47312,80.530
+VIC,233,Wannon,0,,,First Preferences,,0,40808,ALP,Australian Labor Party,MACKENZIE,Fiona,8,11438,19.470
+VIC,233,Wannon,33601,IND,Independent,DYSON,Alex,1,40770,LP,Liberal,TEHAN,Dan,7,9797,28.800
+VIC,233,Wannon,33601,IND,Independent,DYSON,Alex,1,40808,ALP,Australian Labor Party,MACKENZIE,Fiona,8,24215,71.200
+VIC,233,Wannon,41544,FFPA,Family First,ELMES,Lee-Ann,2,40770,LP,Liberal,TEHAN,Dan,7,1591,77.050
+VIC,233,Wannon,41544,FFPA,Family First,ELMES,Lee-Ann,2,40808,ALP,Australian Labor Party,MACKENZIE,Fiona,8,474,22.950
+VIC,233,Wannon,41280,GVIC,The Greens,GAZZARD,Kate,3,40770,LP,Liberal,TEHAN,Dan,7,622,18.150
+VIC,233,Wannon,41280,GVIC,The Greens,GAZZARD,Kate,3,40808,ALP,Australian Labor Party,MACKENZIE,Fiona,8,2805,81.850
+VIC,233,Wannon,41388,CYA,Trumpet of Patriots,MCCAMISH,Julie Ann,4,40770,LP,Liberal,TEHAN,Dan,7,1301,72.720
+VIC,233,Wannon,41388,CYA,Trumpet of Patriots,MCCAMISH,Julie Ann,4,40808,ALP,Australian Labor Party,MACKENZIE,Fiona,8,488,27.280
+VIC,233,Wannon,41231,HMP,Legalise Cannabis Party,SWAN,Robbie,5,40770,LP,Liberal,TEHAN,Dan,7,1560,51.370
+VIC,233,Wannon,41231,HMP,Legalise Cannabis Party,SWAN,Robbie,5,40808,ALP,Australian Labor Party,MACKENZIE,Fiona,8,1477,48.630
+VIC,233,Wannon,41588,ON,Pauline Hanson's One Nation,CURTAIN,Leo,6,40770,LP,Liberal,TEHAN,Dan,7,3488,77.010
+VIC,233,Wannon,41588,ON,Pauline Hanson's One Nation,CURTAIN,Leo,6,40808,ALP,Australian Labor Party,MACKENZIE,Fiona,8,1041,22.990
+VIC,233,Wannon,41466,IND,Independent,ATKINSON,Bernadine,9,40770,LP,Liberal,TEHAN,Dan,7,367,46.220
+VIC,233,Wannon,41466,IND,Independent,ATKINSON,Bernadine,9,40808,ALP,Australian Labor Party,MACKENZIE,Fiona,8,427,53.780
+VIC,234,Wills,0,,,First Preferences,,0,40810,ALP,Australian Labor Party,KHALIL,Peter,2,39069,73.450
+VIC,234,Wills,0,,,First Preferences,,0,40775,LP,Liberal,KIDNEY,Jeff,3,14121,26.550
+VIC,234,Wills,41589,SAL,Socialist Alliance,BOLTON,Sue,1,40810,ALP,Australian Labor Party,KHALIL,Peter,2,8159,92.630
+VIC,234,Wills,41589,SAL,Socialist Alliance,BOLTON,Sue,1,40775,LP,Liberal,KIDNEY,Jeff,3,649,7.370
+VIC,234,Wills,41220,HMP,Legalise Cannabis Party,GLOVER,Margee,4,40810,ALP,Australian Labor Party,KHALIL,Peter,2,2350,76.620
+VIC,234,Wills,41220,HMP,Legalise Cannabis Party,GLOVER,Margee,4,40775,LP,Liberal,KIDNEY,Jeff,3,717,23.380
+VIC,234,Wills,41378,SOPA,FUSION | Planet Rescue | Whistleblower Protection | Innovation,MILLER,Owen,5,40810,ALP,Australian Labor Party,KHALIL,Peter,2,869,77.450
+VIC,234,Wills,41378,SOPA,FUSION | Planet Rescue | Whistleblower Protection | Innovation,MILLER,Owen,5,40775,LP,Liberal,KIDNEY,Jeff,3,253,22.550
+VIC,234,Wills,41108,GVIC,The Greens,RATNAM,Samantha,6,40810,ALP,Australian Labor Party,KHALIL,Peter,2,37159,95.690
+VIC,234,Wills,41108,GVIC,The Greens,RATNAM,Samantha,6,40775,LP,Liberal,KIDNEY,Jeff,3,1675,4.310
+VIC,234,Wills,41315,LTP,Libertarian,VERSTEEGEN,Rachel,7,40810,ALP,Australian Labor Party,KHALIL,Peter,2,289,31.480
+VIC,234,Wills,41315,LTP,Libertarian,VERSTEEGEN,Rachel,7,40775,LP,Liberal,KIDNEY,Jeff,3,629,68.520
+VIC,234,Wills,41593,ON,Pauline Hanson's One Nation,STEVENS,Bruce,8,40810,ALP,Australian Labor Party,KHALIL,Peter,2,875,22.770
+VIC,234,Wills,41593,ON,Pauline Hanson's One Nation,STEVENS,Bruce,8,40775,LP,Liberal,KIDNEY,Jeff,3,2967,77.230
+WA,238,Curtin,0,,,First Preferences,,0,41244,LP,Liberal,WHITE,Tom,1,42436,73.090
+WA,238,Curtin,0,,,First Preferences,,0,41359,ALP,Australian Labor Party,KO,Viktor Andrew,6,15626,26.910
+WA,238,Curtin,41755,GRN,The Greens (WA) Inc,HEMSLEY,Kitty,2,41244,LP,Liberal,WHITE,Tom,1,901,10.940
+WA,238,Curtin,41755,GRN,The Greens (WA) Inc,HEMSLEY,Kitty,2,41359,ALP,Australian Labor Party,KO,Viktor Andrew,6,7334,89.060
+WA,238,Curtin,36589,IND,Independent,CHANEY,Kate,3,41244,LP,Liberal,WHITE,Tom,1,8314,24.490
+WA,238,Curtin,36589,IND,Independent,CHANEY,Kate,3,41359,ALP,Australian Labor Party,KO,Viktor Andrew,6,25638,75.510
+WA,238,Curtin,41657,ON,Pauline Hanson's One Nation,IRONSIDE,Alexander,4,41244,LP,Liberal,WHITE,Tom,1,2295,84.040
+WA,238,Curtin,41657,ON,Pauline Hanson's One Nation,IRONSIDE,Alexander,4,41359,ALP,Australian Labor Party,KO,Viktor Andrew,6,436,15.960
+WA,238,Curtin,42076,HMP,Legalise Cannabis Party,MULHOLLAND,Fred,5,41244,LP,Liberal,WHITE,Tom,1,1003,42.360
+WA,238,Curtin,42076,HMP,Legalise Cannabis Party,MULHOLLAND,Fred,5,41359,ALP,Australian Labor Party,KO,Viktor Andrew,6,1365,57.640
+WA,240,Fremantle,0,,,First Preferences,,0,41377,ALP,Australian Labor Party,WILSON,Josh,3,39427,67.190
+WA,240,Fremantle,0,,,First Preferences,,0,41256,LP,Liberal,MARSTON,Tait,5,19254,32.810
+WA,240,Fremantle,42074,IND,Independent,HULETT,Kate,1,41377,ALP,Australian Labor Party,WILSON,Josh,3,17177,73.090
+WA,240,Fremantle,42074,IND,Independent,HULETT,Kate,1,41256,LP,Liberal,MARSTON,Tait,5,6323,26.910
+WA,240,Fremantle,41841,CEC,Citizens Party,BIRD,John Alexander,2,41377,ALP,Australian Labor Party,WILSON,Josh,3,501,53.760
+WA,240,Fremantle,41841,CEC,Citizens Party,BIRD,John Alexander,2,41256,LP,Liberal,MARSTON,Tait,5,431,46.240
+WA,240,Fremantle,41789,GRN,The Greens (WA) Inc,WARNE,Amy,4,41377,ALP,Australian Labor Party,WILSON,Josh,3,10719,90.820
+WA,240,Fremantle,41789,GRN,The Greens (WA) Inc,WARNE,Amy,4,41256,LP,Liberal,MARSTON,Tait,5,1083,9.180
+WA,240,Fremantle,41708,ON,Pauline Hanson's One Nation,MARRINER,Hannah,6,41377,ALP,Australian Labor Party,WILSON,Josh,3,1546,24.760
+WA,240,Fremantle,41708,ON,Pauline Hanson's One Nation,MARRINER,Hannah,6,41256,LP,Liberal,MARSTON,Tait,5,4699,75.240
+WA,240,Fremantle,40671,SAL,Socialist Alliance,LAST,Joshua,7,41377,ALP,Australian Labor Party,WILSON,Josh,3,775,79.900
+WA,240,Fremantle,40671,SAL,Socialist Alliance,LAST,Joshua,7,41256,LP,Liberal,MARSTON,Tait,5,195,20.100
