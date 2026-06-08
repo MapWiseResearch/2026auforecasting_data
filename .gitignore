@@ -1,4 +1,6 @@
-output/
+.DS_Store
+.pytest_cache/
 *.pkl
 *.~lock.*
 .fundraising_cache.pkl
+!output/static_inputs_cache.pkl

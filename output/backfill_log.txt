@@ -1,0 +1,1143 @@
+Optimized backfill starting 2026-03-03 to 2026-06-07
+PM approval cached: -0.1700
+Static inputs loaded: 150 electorates
+Aux CSVs loaded
+OK 2026-03-03 (143s)
+OK 2026-03-04 (156s)
+OK 2026-03-05 (203s)
+OK 2026-03-06 (214s)
+OK 2026-03-07 (221s)
+OK 2026-03-08 (225s)
+OK 2026-03-09 (217s)
+OK 2026-03-10 (217s)
+OK 2026-03-11 (220s)
+OK 2026-03-12 (219s)
+OK 2026-03-13 (221s)
+OK 2026-03-14 (224s)
+OK 2026-03-15 (226s)
+OK 2026-03-16 (236s)
+OK 2026-03-17 (270s)
+OK 2026-03-18 (261s)
+OK 2026-03-19 (256s)
+OK 2026-03-20 (261s)
+OK 2026-03-21 (261s)
+OK 2026-03-22 (277s)
+OK 2026-03-23 (278s)
+ERROR 2026-03-24 (3s): File is not a zip file
+OK 2026-03-25 (278s)
+OK 2026-03-26 (276s)
+OK 2026-03-27 (263s)
+OK 2026-03-28 (269s)
+OK 2026-03-29 (266s)
+OK 2026-03-30 (267s)
+OK 2026-03-31 (267s)
+OK 2026-04-01 (271s)
+ERROR 2026-04-02 (3s): File is not a zip file
+OK 2026-04-03 (267s)
+OK 2026-04-04 (270s)
+OK 2OK 2026-04-01 (293s)
+OK 2026-04-02 (289s)
+OK 2026-04-03 (286s)
+OK 2026-04-04 (288s)
+OK 2026-04-05 (288s)
+OK 2026-04-06 (317s)
+OK 2026-04-07 (329s)
+OK 2026-04-08 (326s)
+OK 2026-04-09 (327s)
+OK 2026-04-10 (319s)
+OK 2026-04-11 (309s)
+OK 2026-04-12 (294s)
+OK 2026-04-13 (323s)
+OK 2026-04-14 (289s)
+OK 2026-04-15 (306s)
+OK 2026-04-16 (269s)
+OK 2026-04-17 (4519s)
+OK 2026-04-18 (1904s)
+OK 2026-04-19 (2257s)
+OK 2026-04-20 (2484s)
+OK 2026-04-21 (1731s)
+OK 2026-04-22 (1184s)
+OK 2026-04-23 (993s)
+OK 2026-04-24 (2567s)
+6 (2260s)
+OK 2026-04-27 (700s)
+OK 2026-04-28 (3353s)
+OK 2026-04-29 (705s)
+ERROR 2026-04-30 (6s): Bad CRC-32 for file 'docProps/core.xml'
+OK 2026-05-01 (1111s)
+OK 2026-05-02 (803s)
+OK 2026-05-03 (2737s)
+OK 2026-05-04 (91s)
+1573s)
+OK 2026-04-22 (3431s)
+OK 2026-04-23 (773s)
+OK 2026-04-24 (1091s)
+OK 2026-04-25 (1025s)
+OK 2026-04-26 (2537s)
+data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.093', 'lib': '+0.223', 'nat': '+0.222', 'grn': '-0.129', 'teal': '+0.002', 'onp': '+1.612', 'oth': '-0.463'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.223  OTH→ALP=0.640
+Running forecast as of 2026-03-05 (788 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-05
+OK 2026-03-05 (160s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.093', 'lib': '+0.223', 'nat': '+0.222', 'grn': '-0.129', 'teal': '+0.002', 'onp': '+1.612', 'oth': '-0.463'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.223  OTH→ALP=0.640
+Running forecast as of 2026-03-06 (787 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-06
+OK 2026-03-06 (220s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.093', 'lib': '+0.223', 'nat': '+0.222', 'grn': '-0.129', 'teal': '+0.002', 'onp': '+1.612', 'oth': '-0.463'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.223  OTH→ALP=0.640
+Running forecast as of 2026-03-07 (786 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-07
+OK 2026-03-07 (235s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.095', 'lib': '+0.219', 'nat': '+0.219', 'grn': '-0.126', 'teal': '+0.002', 'onp': '+1.621', 'oth': '-0.460'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.223  OTH→ALP=0.644
+Running forecast as of 2026-03-08 (785 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-08
+OK 2026-03-08 (242s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.095', 'lib': '+0.219', 'nat': '+0.219', 'grn': '-0.126', 'teal': '+0.002', 'onp': '+1.621', 'oth': '-0.460'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.223  OTH→ALP=0.644
+Running forecast as of 2026-03-09 (784 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-09
+OK 2026-03-09 (240s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.095', 'lib': '+0.214', 'nat': '+0.213', 'grn': '-0.124', 'teal': '+0.002', 'onp': '+1.634', 'oth': '-0.458'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.223  OTH→ALP=0.644
+Running forecast as of 2026-03-10 (783 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-10
+OK 2026-03-10 (236s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.095', 'lib': '+0.214', 'nat': '+0.213', 'grn': '-0.124', 'teal': '+0.002', 'onp': '+1.634', 'oth': '-0.458'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.223  OTH→ALP=0.644
+Running forecast as of 2026-03-11 (782 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-11
+OK 2026-03-11 (243s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.095', 'lib': '+0.214', 'nat': '+0.213', 'grn': '-0.124', 'teal': '+0.002', 'onp': '+1.634', 'oth': '-0.458'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.223  OTH→ALP=0.644
+Running forecast as of 2026-03-12 (781 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-12
+OK 2026-03-12 (235s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.095', 'lib': '+0.214', 'nat': '+0.213', 'grn': '-0.124', 'teal': '+0.002', 'onp': '+1.634', 'oth': '-0.458'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.223  OTH→ALP=0.644
+Running forecast as of 2026-03-13 (780 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-13
+OK 2026-03-13 (238s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.096', 'lib': '+0.209', 'nat': '+0.209', 'grn': '-0.122', 'teal': '+0.002', 'onp': '+1.645', 'oth': '-0.454'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.223  OTH→ALP=0.644
+Running forecast as of 2026-03-14 (779 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-14
+OK 2026-03-14 (247s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.097', 'lib': '+0.206', 'nat': '+0.205', 'grn': '-0.121', 'teal': '+0.002', 'onp': '+1.653', 'oth': '-0.451'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.223  OTH→ALP=0.648
+Running forecast as of 2026-03-15 (778 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-15
+OK 2026-03-15 (245s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.097', 'lib': '+0.206', 'nat': '+0.205', 'grn': '-0.121', 'teal': '+0.002', 'onp': '+1.653', 'oth': '-0.451'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.223  OTH→ALP=0.648
+Running forecast as of 2026-03-16 (777 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-16
+OK 2026-03-16 (251s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.097', 'lib': '+0.206', 'nat': '+0.205', 'grn': '-0.121', 'teal': '+0.002', 'onp': '+1.653', 'oth': '-0.451'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.223  OTH→ALP=0.648
+Running forecast as of 2026-03-17 (776 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-17
+OK 2026-03-17 (300s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.097', 'lib': '+0.206', 'nat': '+0.205', 'grn': '-0.121', 'teal': '+0.002', 'onp': '+1.653', 'oth': '-0.451'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.223  OTH→ALP=0.648
+Running forecast as of 2026-03-18 (775 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-18
+OK 2026-03-18 (286s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.100', 'lib': '+0.221', 'nat': '+0.220', 'grn': '-0.130', 'teal': '+0.002', 'onp': '+1.653', 'oth': '-0.461'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.223  OTH→ALP=0.648
+Running forecast as of 2026-03-19 (774 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-19
+OK 2026-03-19 (284s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.100', 'lib': '+0.221', 'nat': '+0.220', 'grn': '-0.130', 'teal': '+0.002', 'onp': '+1.653', 'oth': '-0.461'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.223  OTH→ALP=0.648
+Running forecast as of 2026-03-20 (773 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-20
+OK 2026-03-20 (283s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.100', 'lib': '+0.221', 'nat': '+0.220', 'grn': '-0.130', 'teal': '+0.002', 'onp': '+1.653', 'oth': '-0.461'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.223  OTH→ALP=0.648
+Running forecast as of 2026-03-21 (772 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-21
+OK 2026-03-21 (286s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.102', 'lib': '+0.218', 'nat': '+0.218', 'grn': '-0.127', 'teal': '+0.002', 'onp': '+1.663', 'oth': '-0.460'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.225  OTH→ALP=0.647
+Running forecast as of 2026-03-22 (771 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-22
+OK 2026-03-22 (305s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.102', 'lib': '+0.215', 'nat': '+0.215', 'grn': '-0.128', 'teal': '+0.002', 'onp': '+1.671', 'oth': '-0.457'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.222  OTH→ALP=0.641
+Running forecast as of 2026-03-23 (770 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-23
+OK 2026-03-23 (304s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.103', 'lib': '+0.203', 'nat': '+0.203', 'grn': '-0.121', 'teal': '+0.002', 'onp': '+1.702', 'oth': '-0.453'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.222  OTH→ALP=0.641
+Running forecast as of 2026-03-24 (769 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-24
+OK 2026-03-24 (299s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.103', 'lib': '+0.200', 'nat': '+0.199', 'grn': '-0.119', 'teal': '+0.002', 'onp': '+1.710', 'oth': '-0.451'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.220  OTH→ALP=0.639
+Running forecast as of 2026-03-25 (768 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-25
+OK 2026-03-25 (293s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.102', 'lib': '+0.237', 'nat': '+0.237', 'grn': '-0.155', 'teal': '+0.002', 'onp': '+1.671', 'oth': '-0.473'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.220  OTH→ALP=0.639
+Running forecast as of 2026-03-26 (767 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-26
+OK 2026-03-26 (295s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.102', 'lib': '+0.232', 'nat': '+0.232', 'grn': '-0.153', 'teal': '+0.002', 'onp': '+1.685', 'oth': '-0.473'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.213  OTH→ALP=0.648
+Running forecast as of 2026-03-27 (766 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-27
+OK 2026-03-27 (288s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.102', 'lib': '+0.232', 'nat': '+0.232', 'grn': '-0.153', 'teal': '+0.002', 'onp': '+1.685', 'oth': '-0.473'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.213  OTH→ALP=0.648
+Running forecast as of 2026-03-28 (765 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-28
+OK 2026-03-28 (290s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.102', 'lib': '+0.225', 'nat': '+0.225', 'grn': '-0.149', 'teal': '+0.002', 'onp': '+1.703', 'oth': '-0.471'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.211  OTH→ALP=0.654
+Running forecast as of 2026-03-29 (764 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-29
+OK 2026-03-29 (294s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.102', 'lib': '+0.225', 'nat': '+0.225', 'grn': '-0.149', 'teal': '+0.002', 'onp': '+1.703', 'oth': '-0.471'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.211  OTH→ALP=0.654
+Running forecast as of 2026-03-30 (763 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-30
+OK 2026-03-30 (296s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.102', 'lib': '+0.225', 'nat': '+0.225', 'grn': '-0.149', 'teal': '+0.002', 'onp': '+1.703', 'oth': '-0.471'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.211  OTH→ALP=0.654
+Running forecast as of 2026-03-31 (762 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-03-31
+OK 2026-03-31 (295s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.102', 'lib': '+0.225', 'nat': '+0.225', 'grn': '-0.149', 'teal': '+0.002', 'onp': '+1.703', 'oth': '-0.471'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.211  OTH→ALP=0.654
+Running forecast as of 2026-04-01 (761 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-01
+OK 2026-04-01 (285s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.102', 'lib': '+0.225', 'nat': '+0.225', 'grn': '-0.149', 'teal': '+0.002', 'onp': '+1.703', 'oth': '-0.471'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.211  OTH→ALP=0.654
+Running forecast as of 2026-04-02 (760 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-02
+OK 2026-04-02 (289s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.102', 'lib': '+0.225', 'nat': '+0.225', 'grn': '-0.149', 'teal': '+0.002', 'onp': '+1.703', 'oth': '-0.471'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.211  OTH→ALP=0.654
+Running forecast as of 2026-04-03 (759 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-03
+OK 2026-04-03 (287s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.102', 'lib': '+0.225', 'nat': '+0.225', 'grn': '-0.149', 'teal': '+0.002', 'onp': '+1.703', 'oth': '-0.471'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.211  OTH→ALP=0.654
+Running forecast as of 2026-04-04 (758 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-04
+OK 2026-04-04 (290s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.102', 'lib': '+0.222', 'nat': '+0.221', 'grn': '-0.148', 'teal': '+0.002', 'onp': '+1.708', 'oth': '-0.468'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.210  OTH→ALP=0.661
+Running forecast as of 2026-04-05 (757 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-05
+OK 2026-04-05 (290s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.102', 'lib': '+0.222', 'nat': '+0.221', 'grn': '-0.148', 'teal': '+0.002', 'onp': '+1.708', 'oth': '-0.468'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.210  OTH→ALP=0.661
+Running forecast as of 2026-04-06 (756 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-06
+OK 2026-04-06 (296s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.104', 'lib': '+0.259', 'nat': '+0.258', 'grn': '-0.164', 'teal': '+0.002', 'onp': '+1.644', 'oth': '-0.488'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.210  OTH→ALP=0.661
+Running forecast as of 2026-04-07 (755 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-07
+OK 2026-04-07 (323s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.104', 'lib': '+0.256', 'nat': '+0.255', 'grn': '-0.162', 'teal': '+0.002', 'onp': '+1.655', 'oth': '-0.487'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.211  OTH→ALP=0.660
+Running forecast as of 2026-04-08 (754 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-08
+OK 2026-04-08 (330s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.104', 'lib': '+0.256', 'nat': '+0.255', 'grn': '-0.162', 'teal': '+0.002', 'onp': '+1.655', 'oth': '-0.487'}
+
+=== Step 5: Run forecast model ===
+Traceback (most recent call last):
+  File "/Users/davisliggett/MapWiseResearch/auforecasting/code/run_all.py", line 349, in <module>
+    main()
+    ~~~~^^
+  File "/Users/davisliggett/MapWiseResearch/auforecasting/code/run_all.py", line 339, in main
+    step_map[step_num]()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/Users/davisliggett/MapWiseResearch/auforecasting/code/run_all.py", line 334, in <lambda>
+    5: lambda: step5_forecast(as_of, n_sims=2000 if fast else None),
+               ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/davisliggett/MapWiseResearch/auforecasting/code/run_all.py", line 114, in step5_forecast
+    run_forecast(**kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/davisliggett/MapWiseResearch/auforecasting/code/forecast.py", line 885, in run_forecast
+    electorates_df = pd.read_excel(preprocessed_path, sheet_name="Electorates", engine="openpyxl")
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pandas/io/excel/_base.py", line 495, in read_excel
+    io = ExcelFile(
+        io,
+    ...<2 lines>...
+        engine_kwargs=engine_kwargs,
+    )
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pandas/io/excel/_base.py", line 1567, in __init__
+    self._reader = self._engines[engine](
+                   ~~~~~~~~~~~~~~~~~~~~~^
+        self._io,
+        ^^^^^^^^^
+        storage_options=storage_options,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        engine_kwargs=engine_kwargs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pandas/io/excel/_openpyxl.py", line 553, in __init__
+    super().__init__(
+    ~~~~~~~~~~~~~~~~^
+        filepath_or_buffer,
+        ^^^^^^^^^^^^^^^^^^^
+        storage_options=storage_options,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        engine_kwargs=engine_kwargs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pandas/io/excel/_base.py", line 573, in __init__
+    self.book = self.load_workbook(self.handles.handle, engine_kwargs)
+                ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pandas/io/excel/_openpyxl.py", line 572, in load_workbook
+    return load_workbook(
+        filepath_or_buffer,
+        **(default_kwargs | engine_kwargs),
+    )
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 348, in load_workbook
+    reader.read()
+    ~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 295, in read
+    self.read_properties()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/openpyxl/reader/excel.py", line 175, in read_properties
+    src = fromstring(self.archive.read(ARC_CORE))
+                     ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/zipfile/__init__.py", line 1669, in read
+    return fp.read()
+           ~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/zipfile/__init__.py", line 1070, in read
+    buf += self._read1(self.MAX_N)
+           ~~~~~~~~~~~^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/zipfile/__init__.py", line 1174, in _read1
+    self._update_crc(data)
+    ~~~~~~~~~~~~~~~~^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/zipfile/__init__.py", line 1102, in _update_crc
+    raise BadZipFile("Bad CRC-32 for file %r" % self.name)
+zipfile.BadZipFile: Bad CRC-32 for file 'docProps/core.xml'
+ERROR 2026-04-09 rc=1 (27s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.104', 'lib': '+0.256', 'nat': '+0.255', 'grn': '-0.162', 'teal': '+0.002', 'onp': '+1.655', 'oth': '-0.487'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.211  OTH→ALP=0.660
+Running forecast as of 2026-04-10 (752 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-10
+OK 2026-04-10 (326s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.104', 'lib': '+0.256', 'nat': '+0.255', 'grn': '-0.162', 'teal': '+0.002', 'onp': '+1.655', 'oth': '-0.487'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.211  OTH→ALP=0.660
+Running forecast as of 2026-04-11 (751 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-11
+OK 2026-04-11 (326s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.105', 'lib': '+0.251', 'nat': '+0.251', 'grn': '-0.160', 'teal': '+0.002', 'onp': '+1.666', 'oth': '-0.485'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.215  OTH→ALP=0.658
+Running forecast as of 2026-04-12 (750 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-12
+OK 2026-04-12 (314s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.105', 'lib': '+0.251', 'nat': '+0.251', 'grn': '-0.160', 'teal': '+0.002', 'onp': '+1.666', 'oth': '-0.485'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.215  OTH→ALP=0.658
+Running forecast as of 2026-04-13 (749 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-13
+OK 2026-04-13 (306s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.106', 'lib': '+0.247', 'nat': '+0.247', 'grn': '-0.158', 'teal': '+0.002', 'onp': '+1.679', 'oth': '-0.482'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.215  OTH→ALP=0.658
+Running forecast as of 2026-04-14 (748 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-14
+OK 2026-04-14 (302s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.106', 'lib': '+0.247', 'nat': '+0.247', 'grn': '-0.158', 'teal': '+0.002', 'onp': '+1.679', 'oth': '-0.482'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.215  OTH→ALP=0.658
+Running forecast as of 2026-04-15 (747 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-15
+OK 2026-04-15 (314s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.106', 'lib': '+0.242', 'nat': '+0.242', 'grn': '-0.156', 'teal': '+0.002', 'onp': '+1.688', 'oth': '-0.480'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.215  OTH→ALP=0.658
+Running forecast as of 2026-04-16 (746 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-16
+OK 2026-04-16 (294s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.106', 'lib': '+0.242', 'nat': '+0.242', 'grn': '-0.156', 'teal': '+0.002', 'onp': '+1.688', 'oth': '-0.480'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.215  OTH→ALP=0.658
+Running forecast as of 2026-04-17 (745 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-17
+OK 2026-04-17 (300s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.106', 'lib': '+0.238', 'nat': '+0.237', 'grn': '-0.154', 'teal': '+0.002', 'onp': '+1.695', 'oth': '-0.477'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.215  OTH→ALP=0.659
+Running forecast as of 2026-04-18 (744 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-18
+OK 2026-04-18 (231s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.106', 'lib': '+0.233', 'nat': '+0.233', 'grn': '-0.151', 'teal': '+0.002', 'onp': '+1.701', 'oth': '-0.475'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.215  OTH→ALP=0.661
+Running forecast as of 2026-04-19 (743 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-19
+OK 2026-04-19 (5804s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.106', 'lib': '+0.233', 'nat': '+0.233', 'grn': '-0.151', 'teal': '+0.002', 'onp': '+1.701', 'oth': '-0.475'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.215  OTH→ALP=0.661
+Running forecast as of 2026-04-20 (742 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-20
+OK 2026-04-20 (2322s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.107', 'lib': '+0.228', 'nat': '+0.228', 'grn': '-0.147', 'teal': '+0.002', 'onp': '+1.716', 'oth': '-0.472'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.215  OTH→ALP=0.661
+Running forecast as of 2026-04-21 (741 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-21
+OK 2026-04-21 (779s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989977848279878}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.107', 'lib': '+0.228', 'nat': '+0.228', 'grn': '-0.147', 'teal': '+0.002', 'onp': '+1.716', 'oth': '-0.472'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.215  OTH→ALP=0.661
+Running forecast as of 2026-04-22 (740 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-22
+OK 2026-04-22 (3411s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989877625464024}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.107', 'lib': '+0.228', 'nat': '+0.228', 'grn': '-0.147', 'teal': '+0.002', 'onp': '+1.716', 'oth': '-0.472'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.215  OTH→ALP=0.661
+Running forecast as of 2026-04-23 (739 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-23
+OK 2026-04-23 (784s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989877625464024}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.107', 'lib': '+0.228', 'nat': '+0.228', 'grn': '-0.147', 'teal': '+0.002', 'onp': '+1.716', 'oth': '-0.472'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.215  OTH→ALP=0.661
+Running forecast as of 2026-04-24 (738 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-24
+OK 2026-04-24 (932s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989877625464024}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.107', 'lib': '+0.228', 'nat': '+0.228', 'grn': '-0.147', 'teal': '+0.002', 'onp': '+1.716', 'oth': '-0.472'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.215  OTH→ALP=0.661
+Running forecast as of 2026-04-25 (737 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-25
+OK 2026-04-25 (2044s)
+
+=== Step 3: Compute national environment ===
+  Swing vector: {'alp': '-0.119', 'lib': '+0.128', 'nat': '+0.128', 'grn': '-0.114', 'teal': '+0.002', 'onp': '+2.010', 'oth': '-0.427'}
+  Blend weights: {'polls': 1.0, 'by_elections': 0.0, 'state_elections': 0.0, 'approval': 0.14989877625464024}
+
+=== Step 4: Merge data -> preprocessed_data.xlsx ===
+Merged preprocessed data → data/output/preprocessed_data.xlsx
+  150 electorates
+  Swing vector: {'alp': '-0.107', 'lib': '+0.223', 'nat': '+0.223', 'grn': '-0.144', 'teal': '+0.002', 'onp': '+1.723', 'oth': '-0.469'}
+
+=== Step 5: Run forecast model ===
+  Poll-derived preference flows: ONP→ALP=0.215  OTH→ALP=0.661
+Running forecast as of 2026-04-26 (736 days to election, σ_national=0.0350)...
+Wrote forecast → data/output/forecast_output.xlsx
+Running nowcast (σ_national=0.0200)...
+Wrote forecast → data/output/nowcast_output.xlsx
+
+Archived -> data/output/details/2026-04-26
+OK 2026-04-26 (1515s)
